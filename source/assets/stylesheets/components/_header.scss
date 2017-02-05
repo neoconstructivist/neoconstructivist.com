@@ -1,0 +1,49 @@
+.page-header {
+  @include outer-container;
+
+  width: 100%;
+  padding: 30px 74px;
+
+  background-color: $base-background-color;
+}
+
+.logo {
+  float: left;
+}
+
+.logo__link {
+  color: $base-font-color;
+
+  font-size: 18px;
+  line-height: 1.2;
+
+  &:hover {
+    color: $base-font-color;
+  }
+}
+
+.menu {
+  float: right;
+}
+
+.menu__list {
+  font-size: 0;
+}
+
+.menu__item {
+  display: inline-block;
+  margin-left: 25px;
+
+  font-size: 18px;
+  line-height: 1.2;
+  vertical-align: middle;
+}
+
+.menu__link {
+  color: $base-font-color;
+
+  &:hover {
+    color: $base-font-color;
+    border-bottom: 1px solid $base-font-color;
+  }
+}
