@@ -8,8 +8,9 @@
     = stylesheet_link_tag "application"
 
   %body{class: page_classes}
-    = partial "partials/header"
-    = yield
+    .wrapper
+      = partial "partials/header"
+      = yield
     = javascript_include_tag "https://code.jquery.com/jquery-2.1.1.min.js"
     = javascript_include_tag "application"
 
