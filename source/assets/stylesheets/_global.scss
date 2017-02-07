@@ -1,19 +1,9 @@
 body {
-  background-color: $light-gray;
-  color: $medium-gray;
+  background-color: $base-background-color;
+  color: $base-font-color;
 }
 
-.delete-me {
-  align-items: center;
-  display: flex;
-  justify-content: center;
-  height: 100vh;
-
-  .container {
-    text-align: center;
-
-    h1 {
-      font-weight: 200;
-    }
-  }
+.wrapper {
+  width: 1200px;
+  margin: 0 auto;
 }
