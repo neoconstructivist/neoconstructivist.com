@@ -2,14 +2,10 @@
   = link_to "#", class: "method__link" do
     = image_tag method.image, class: "method__image"
     .method__meta
-      %h1.method__title 
-        = method.title
-      %p.method__text 
-        = method.description
-    .method__description
-      .method__name 
-        = method.project_name
-      .method__detail 
-        = method.project_description 
-    %span.method__view View Project
-    
+      - if method.color == "dark" 
+        %h1.method__title 
+          = method.title
+      - else
+        %h1.method__title.method__title--dark
+          = method.title
+      

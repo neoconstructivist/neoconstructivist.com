@@ -1,55 +1,25 @@
 details:
-  - title: Method One
-    description: Fuga in qui in aperiam illo commodi delectus
-    image: assets/images/biennale.jpg
-    project_name: Aspernatur Dolorem Labore Enim
-    project_description: >
-      Praesentium numquam vel dolor sapiente harum suscipit officiis mollitia. 
-      Et doloribus nesciunt ut aut nam aliquam voluptas aut voluptatem non 
-      quasi assumenda
+  - title: Meta Archive
+    color: light
+    image: assets/images/1-MA.jpg
   
-  - title: Method Two
-    description: Fuga in qui in aperiam illo commodi delectus
-    image: assets/images/biennale.jpg
-    project_name: Aspernatur Dolorem Labore Enim
-    project_description: >
-      Praesentium numquam vel dolor sapiente harum suscipit officiis mollitia. 
-      Et doloribus nesciunt ut aut nam aliquam voluptas aut voluptatem non 
-      quasi assumenda
+  - title: Info Diagnostics
+    color: light
+    image: assets/images/2-ICS.jpg
+    
+  - title: Factography
+    color: light
+    image: assets/images/3-FG.jpg
+    
+  - title: Vector Montage
+    color: dark
+    image: assets/images/4-VM.jpg
 
-  - title: Method Three
-    description: Fuga in qui in aperiam illo commodi delectus
-    image: assets/images/biennale.jpg
-    project_name: Aspernatur Dolorem Labore Enim
-    project_description: >
-      Praesentium numquam vel dolor sapiente harum suscipit officiis mollitia. 
-      Et doloribus nesciunt ut aut nam aliquam voluptas aut voluptatem non 
-      quasi assumenda
+  - title: Non-material Restoration
+    color: dark
+    image: assets/images/5-NMR.jpg
 
-  - title: Method Four
-    description: Fuga in qui in aperiam illo commodi delectus
-    image: assets/images/biennale.jpg
-    project_name: Aspernatur Dolorem Labore Enim
-    project_description: >
-      Praesentium numquam vel dolor sapiente harum suscipit officiis mollitia. 
-      Et doloribus nesciunt ut aut nam aliquam voluptas aut voluptatem non 
-      quasi assumenda
-
-  - title: Method Five
-    description: Fuga in qui in aperiam illo commodi delectus
-    image: assets/images/biennale.jpg
-    project_name: Aspernatur Dolorem Labore Enim
-    project_description: >
-      Praesentium numquam vel dolor sapiente harum suscipit officiis mollitia. 
-      Et doloribus nesciunt ut aut nam aliquam voluptas aut voluptatem non 
-      quasi assumenda
-
-  - title: Method Six
-    description: Fuga in qui in aperiam illo commodi delectus
-    image: assets/images/biennale.jpg
-    project_name: Aspernatur Dolorem Labore Enim
-    project_description: >
-      Praesentium numquam vel dolor sapiente harum suscipit officiis mollitia. 
-      Et doloribus nesciunt ut aut nam aliquam voluptas aut voluptatem non 
-      quasi assumenda
+  - title: Immersive Mechanics
+    color: dark
+    image: assets/images/6-IM.jpg
     

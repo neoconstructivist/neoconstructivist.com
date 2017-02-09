@@ -1,11 +1,18 @@
 .page-footer {
-  display: flex;
-  justify-content: space-around;
+  @include outer-container(100%);
+}
+
+.copyright {
+  @include span-columns(6);
+
+  font-size: 18px;
+  line-height: 1.2;
 }
 
 .social {
-  padding-top: 50px;
-  padding-bottom: 110px;
+  @include span-columns(6);
+
+  margin-bottom: 120px;
 }
 
 .social__list {
@@ -14,17 +21,22 @@
 
 .social__item {
   display: inline-block;
-  margin: 0 10px;
+  margin-left: 25px;
 
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.2;
-  vertical-align: top;
+  vertical-align: middle;
+
+  &:first-child {
+    margin-left: 0;
+  }
 }
 
 .social__link {
-  color: $black;
+  color: $base-font-color;
 
   &:hover {
-    color: $black;
+    color: $base-font-color;
+    border-bottom: 1px solid $base-font-color;
   }
 }
