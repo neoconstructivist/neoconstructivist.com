@@ -6,5 +6,5 @@ title: Page Title
   %p.intro__text 
     = lorem.sentences 3 
 %section.method
-  - 6.times do
-    = partial "partials/method"
+  - data.strategies.details.each do |method|
+    = partial "partials/method", locals: { method: method }
