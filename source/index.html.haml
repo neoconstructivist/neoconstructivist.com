@@ -1,11 +1,7 @@
 ---
 title: Page Title
 ---
-.intro
-  .intro__item
-    %h1.intro__title The Art of Conceptual Engineering
-    %p.intro__text 
-      = lorem.sentences 6 
+= partial "partials/intro"
 %section.method
   - data.strategies.details.each do |method|
     = partial "partials/method", locals: { method: method }
