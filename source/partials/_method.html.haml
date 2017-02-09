@@ -1,12 +1,15 @@
 %article.method__item
   = link_to "#", class: "method__link" do
-    = image_tag "assets/images/biennale.jpg", class: "method__image"
+    = image_tag method.image, class: "method__image"
     .method__meta
-      %h1.method__title Meta Archive
-      %p.method__text Dynamic archive of objects and their contextual fields
+      %h1.method__title 
+        = method.title
+      %p.method__text 
+        = method.description
     .method__description
-      .method__name Venice Biennale Digital Interaction
+      .method__name 
+        = method.project_name
       .method__detail 
-        = lorem.sentences 2 
+        = method.project_description 
     %span.method__view View Project
     
