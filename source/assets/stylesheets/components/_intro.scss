@@ -1,8 +1,14 @@
 .intro {
+  @include outer-container;
+
   display: block;
-  width: 65%;
-  margin-top: 14px;
-  margin-bottom: 36px;
+  margin-top: 15px;
+  margin-bottom: 30px;
+}
+
+.intro__item {
+  @include span-columns(6);
+  @include shift(6);
 }
 
 .intro__title {
