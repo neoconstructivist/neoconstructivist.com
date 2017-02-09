@@ -1,0 +1,63 @@
+.project {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.project__row {
+  @include outer-container(100%);
+
+  margin-bottom: 30px;
+}
+
+.project__item {
+  @include span-columns(6);
+}
+
+.project__image {
+  position: relative;
+  width: 100%;
+  height: auto;
+}
+
+.project__title {
+  font-size: 32px;
+  line-height: 1.2;
+}
+
+.project__meta {
+  margin-bottom: 15px;
+  
+  font-size: 0;
+}
+
+.project__method {
+  display: inline-block;
+  margin-right: 10px;
+
+  font-size: 16px;
+  line-height: 1.2;
+  vertical-align: top;
+}
+
+.project__domain {
+  display: inline-block;
+  
+  font-size: 16px;
+  line-height: 1.2;
+  vertical-align: top;
+}
+
+.project__category {
+  font-size: 16px;
+  line-height: 1.2;
+}
+
+.project__description {
+  margin-bottom: 20px;
+}
+
+.project__info {
+  @include span-columns(6);
+}
