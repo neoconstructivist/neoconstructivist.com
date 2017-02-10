@@ -1,0 +1,16 @@
+%article.project__row
+  .project__item
+    = link_to "#", class: "project__link" do
+      = image_tag "assets/images/1-MA.jpg", class: "project__image"
+  .project__info
+    %h2.project__title 
+      = lorem.words(4).capitalize
+    .project__meta
+      .project__method
+        Factography:
+      .project__domain
+        Creative Industries / Cultural Centers / Libraries
+    .project__description
+      = lorem.sentences 4
+    .project__category
+      Book / Storytelling / Coding / Art Curating / Photography
