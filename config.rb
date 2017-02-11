@@ -12,6 +12,16 @@ page '/*.xml', layout: false
 page '/*.json', layout: false
 page '/*.txt', layout: false
 
+# Dynamic pages: Methods
+data.strategies.each do |name, _|
+  proxy "/methods/#{name}/index.html",
+    "/methods/template.html",
+    locals: { name: name },
+    ignore: true
+end
+
+ignore "methods/template.html"
+
 configure :development do
   activate :livereload
 end

@@ -1,7 +1,9 @@
 ---
-title: Page Title
+title: main
 ---
-= partial "partials/intro"
+
+- data.main.each do |method|
+  = partial "partials/intro", locals: { method: method }
 %section.method
-  - data.strategies.details.each do |method|
-    = partial "partials/method", locals: { method: method }
+  - data.strategies.each do |name, method|
+    = partial "partials/method", locals: { name: name, method: method }
