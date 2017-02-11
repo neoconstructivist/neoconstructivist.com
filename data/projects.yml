@@ -1,0 +1,428 @@
+---
+neoconstructivist-lab:
+  status: Developing..
+  title: Neoconstructivist Lab.
+  date: since Dec 2016
+  strategy: 
+  domain: 
+    - Creative Industries
+  description: >
+    Praesentium numquam vel dolor sapiente harum suscipit officiis mollitia. 
+    Et doloribus nesciunt ut aut nam aliquam voluptas aut voluptatem non 
+    quasi assumenda
+  category: 
+    - Research
+    - Convergence
+    - Conceptual Design 
+    - Book 
+    - Web
+  image: assets/images/3-FG.jpg
+
+minsk-coffee-stories:
+  status: Developing..
+  title: Minsk Coffee Stories
+  date: since Nov 2016
+  strategy: 
+    - Factography
+  domain: 
+    - Hospitality & HoReCa
+  description: >
+    Praesentium numquam vel dolor sapiente harum suscipit officiis mollitia. 
+    Et doloribus nesciunt ut aut nam aliquam voluptas aut voluptatem non 
+    quasi assumenda
+  category: 
+    - Book 
+    - Storytelling
+  image: assets/images/3-FG.jpg
+  
+cultural-coffee:
+  status: Developing..
+  title: Cultural Coffee - Digital Installation
+  date: since Sep 2016
+  strategy: 
+    - Immersive Mechanics
+  domain: 
+    - Hospitality & HoReCa
+  description: >
+    Praesentium numquam vel dolor sapiente harum suscipit officiis mollitia. 
+    Et doloribus nesciunt ut aut nam aliquam voluptas aut voluptatem non 
+    quasi assumenda
+  category: 
+    - Participation
+    - Coding
+    - Storytelling
+  image: assets/images/6-IM.jpg
+
+literally-about-letters:
+  status: 
+  title: Literally About Letters - Kafe Kultura Installation
+  date: Mar 2016
+  strategy: 
+  domain: 
+    - Hospitality & HoReCa
+  description: >
+    Praesentium numquam vel dolor sapiente harum suscipit officiis mollitia. 
+    Et doloribus nesciunt ut aut nam aliquam voluptas aut voluptatem non 
+    quasi assumenda
+  category: 
+    - Participation
+    - Storytelling
+  image: assets/images/3-FG.jpg
+  
+rural-lifestyle:
+  status: 
+  title: Rural Lifestyle — Documents and Photographs Reproduction
+  date: 2016
+  strategy: 
+  domain: 
+    - Museums & Galleries
+  description: >
+    Praesentium numquam vel dolor sapiente harum suscipit officiis mollitia. 
+    Et doloribus nesciunt ut aut nam aliquam voluptas aut voluptatem non 
+    quasi assumenda
+  category: 
+    - Reproduction
+    - Photography
+  image: assets/images/3-FG.jpg
+
+kafe-kultura:
+  status: Ongoing Experiment..
+  title: Kafe Kultura
+  date: since Nov 2015
+  strategy: 
+    - Meta Archive
+    - Factography
+  domain: 
+    - Creative Industries
+  description: >
+    Praesentium numquam vel dolor sapiente harum suscipit officiis mollitia. 
+    Et doloribus nesciunt ut aut nam aliquam voluptas aut voluptatem non 
+    quasi assumenda
+  category: 
+    - Experimental Design
+    - Conceptual Design
+  image: assets/images/1-MA.jpg
+
+war-against-war:
+  status: 
+  title: War Against War — Outdoor Installation
+  date: May — Oct 2015
+  strategy: 
+    - Non-material Restoration
+  domain: 
+    - Municipality
+  description: >
+    Praesentium numquam vel dolor sapiente harum suscipit officiis mollitia. 
+    Et doloribus nesciunt ut aut nam aliquam voluptas aut voluptatem non 
+    quasi assumenda
+  category: 
+    - Art Curating
+    - Spatial Design
+    - Storytelling
+  image: assets/images/5-NMR.jpg
+
+laboratory-of-photograph-restoration:
+  status: Ongoing Experiment..
+  title: Laboratory of Photograph Restoration
+  date: since Sep 2015
+  strategy: 
+    - Non-material Restoration
+  domain: 
+  description: >
+    Praesentium numquam vel dolor sapiente harum suscipit officiis mollitia. 
+    Et doloribus nesciunt ut aut nam aliquam voluptas aut voluptatem non 
+    quasi assumenda
+  category: 
+  image: assets/images/5-NMR.jpg
+
+wwa-in-army-museum-stockholm:
+  status: 
+  title: WWA in Army Museum Stockholm
+  status: Aug 2015
+  strategy: 
+    - Non-material Restoration
+  domain: 
+    - Museums & Galleries
+  description: >
+    Praesentium numquam vel dolor sapiente harum suscipit officiis mollitia. 
+    Et doloribus nesciunt ut aut nam aliquam voluptas aut voluptatem non 
+    quasi assumenda
+  category: 
+    - Art Curating
+    - Architect
+    - Experiential Design
+  image: assets/images/5-NMR.jpg
+
+venice-biennale-digital-interaction:
+  status: 
+  title: Venice Biennale Digital Interaction
+  date: May — Sep 2015
+  strategy: 
+    - Meta Archive
+    - Immersive Mechanics
+  domain: 
+    - Museums & Galleries
+  description: >
+    Praesentium numquam vel dolor sapiente harum suscipit officiis mollitia. 
+    Et doloribus nesciunt ut aut nam aliquam voluptas aut voluptatem non 
+    quasi assumenda
+  category: 
+    - Art Curating 
+    - Experiential Design
+    - Architect
+    - Coding
+    - Light
+    - Engineering
+    - Participation
+    - Immersive Art
+    - Photography
+  image: assets/images/6-IM.jpg
+
+venice-biennale-analog-interaction:
+  status: 
+  title: Venice Biennale Analog Interaction
+  date: May 2015
+  strategy: 
+    - Meta Archive
+  domain: 
+    - Museums & Galleries
+  description: >
+    Praesentium numquam vel dolor sapiente harum suscipit officiis mollitia. 
+    Et doloribus nesciunt ut aut nam aliquam voluptas aut voluptatem non 
+    quasi assumenda
+  category: 
+    - Art Curating
+    - Experiential Design
+    - Architect
+    - Coding 
+    - Light
+    - Engineering
+    - Participation
+    - Immersive Art
+    - Photography
+  image: assets/images/1-MA.jpg
+
+archive-books-for-the-wwa-art-installation:
+  status: 
+  title: Archive Books for the WWA Art Installation
+  date: Apr 2015
+  strategy: 
+    - Non-material Restoration
+  domain: 
+    - Museums & Galleries
+  description: >
+    Praesentium numquam vel dolor sapiente harum suscipit officiis mollitia. 
+    Et doloribus nesciunt ut aut nam aliquam voluptas aut voluptatem non 
+    quasi assumenda
+  category: 
+    - Research
+    - Reproduction
+    - Archive
+    - Photography
+    - Book
+  image: assets/images/5-NMR.jpg
+
+wwa-interaction-with-memories:
+  status: Ongoing Experiment..
+  title: WWA Interaction with Memories
+  date: Sep 2014
+  strategy: 
+    - Meta Archive
+    - Non-material Restoration
+  domain: 
+    - Museums & Galleries
+  description: >
+    Praesentium numquam vel dolor sapiente harum suscipit officiis mollitia. 
+    Et doloribus nesciunt ut aut nam aliquam voluptas aut voluptatem non 
+    quasi assumenda
+  category: 
+    - Art Curating
+  image: assets/images/5-NMR.jpg
+
+birth-of-creative-city:
+  status: 
+  title: Birth of Creative City
+  date: Aug — Dec 2014
+  strategy: 
+  domain: 
+    - Museums & Galleries
+  description: >
+    Praesentium numquam vel dolor sapiente harum suscipit officiis mollitia. 
+    Et doloribus nesciunt ut aut nam aliquam voluptas aut voluptatem non 
+    quasi assumenda
+  category: 
+    - Art Curating
+  image: assets/images/3-FG.jpg
+
+amnezia:
+  status: 
+  title: Amnezia
+  date: May 2014
+  strategy: 
+  domain: 
+  description: >
+    Praesentium numquam vel dolor sapiente harum suscipit officiis mollitia. 
+    Et doloribus nesciunt ut aut nam aliquam voluptas aut voluptatem non 
+    quasi assumenda
+  category: 
+  image: assets/images/3-FG.jpg
+
+olympic:
+  status: 
+  title: Olympic
+  date: May 2014
+  strategy: 
+    - Immersive Mechanics
+  domain: 
+    - Museums & Galleries
+  description: >
+    Praesentium numquam vel dolor sapiente harum suscipit officiis mollitia. 
+    Et doloribus nesciunt ut aut nam aliquam voluptas aut voluptatem non 
+    quasi assumenda
+  category: 
+    - Art Curating
+    - Light
+    - Experiential Design
+  image: assets/images/6-IM.jpg
+
+belarus-during-ww1:
+  status: 
+  title: Belarus during WW1
+  date: Feb 2014
+  strategy: 
+    - Non-material Restoration
+  domain: 
+    - Museums & Galleries
+  description: >
+    Praesentium numquam vel dolor sapiente harum suscipit officiis mollitia. 
+    Et doloribus nesciunt ut aut nam aliquam voluptas aut voluptatem non 
+    quasi assumenda
+  category: 
+    - Art Curating
+    - Photography
+    - Research
+    - Storytelling
+    - Light
+  image: assets/images/5-NMR.jpg
+
+memory-interpretation-as-conservation-of-the-museum-object:
+  status: Prototype..
+  title: Memory Interpretation as Conservation of the Museum Object
+  date: Sep 2013
+  strategy: 
+    - Non-material Restoration
+  domain: 
+    - Museums & Galleries
+  description: >
+    Praesentium numquam vel dolor sapiente harum suscipit officiis mollitia. 
+    Et doloribus nesciunt ut aut nam aliquam voluptas aut voluptatem non 
+    quasi assumenda
+  category: 
+    - Art Curating
+    - Research
+    - Storytelling
+  image: assets/images/5-NMR.jpg
+
+belarusian-factography:
+  status: 
+  title: Belarusian Factography
+  date: 2007 — 2013
+  strategy: 
+    - Factography
+  domain: 
+    - Museums & Galleries
+  description: >
+    Praesentium numquam vel dolor sapiente harum suscipit officiis mollitia. 
+    Et doloribus nesciunt ut aut nam aliquam voluptas aut voluptatem non 
+    quasi assumenda
+  category: 
+    - Art Curating
+    - Photography
+  image: assets/images/3-FG.jpg
+
+center-of-photography-library:
+  status: 
+  title: Center of Photography Library
+  date: May 2012
+  strategy: 
+    - Vector Montage
+  domain: 
+    - Cultural Centers
+    - Libraries
+  description: >
+    Praesentium numquam vel dolor sapiente harum suscipit officiis mollitia. 
+    Et doloribus nesciunt ut aut nam aliquam voluptas aut voluptatem non 
+    quasi assumenda
+  category: 
+    - Conceptual Design
+    - Coding
+    - Book
+    - Photography
+  image: assets/images/4-VM.jpg
+
+coloroom:
+  status: 
+  title: Coloroom Ltd.
+  date: 2012 — 2014
+  strategy: 
+    - Vector Montage
+  domain: 
+    - Creative Industries
+  description: >
+    Praesentium numquam vel dolor sapiente harum suscipit officiis mollitia. 
+    Et doloribus nesciunt ut aut nam aliquam voluptas aut voluptatem non 
+    quasi assumenda
+  category: 
+    - Conceptual Design
+    - Engineering
+  image: assets/images/4-VM.jpg
+
+photo-editor:
+  status: 
+  title: Photo Editor for Belarusian State University
+  date: 2011 — 2012
+  strategy: 
+    - Vector Montage
+  domain: 
+    - Educational Centers
+  description: >
+    Praesentium numquam vel dolor sapiente harum suscipit officiis mollitia. 
+    Et doloribus nesciunt ut aut nam aliquam voluptas aut voluptatem non 
+    quasi assumenda
+  category: 
+    - Conceptual Design
+  image: assets/images/4-VM.jpg
+
+school-of-photography:
+  status: 
+  title: School of Photography in Minsk
+  date: 2007 — 2014
+  strategy: 
+    - Vector Montage
+  domain: 
+    - Educational Centers
+  description: >
+    Praesentium numquam vel dolor sapiente harum suscipit officiis mollitia. 
+    Et doloribus nesciunt ut aut nam aliquam voluptas aut voluptatem non 
+    quasi assumenda
+  category: 
+    - Conceptual Design
+    - Photography
+  image: assets/images/4-VM.jpg
+
+forecasting-the-technical-state-of-machines:
+  status: Prototype..
+  title: Forecasting the Technical State of Machines
+  date: 2003 — 2006 
+  strategy: 
+    - Info Diagnostics
+  domain: 
+    - Technology & Telecoms
+  description: >
+    Praesentium numquam vel dolor sapiente harum suscipit officiis mollitia. 
+    Et doloribus nesciunt ut aut nam aliquam voluptas aut voluptatem non 
+    quasi assumenda
+  category: 
+    - Research
+    - Engineering
+  image: assets/images/2-ICS.jpg
