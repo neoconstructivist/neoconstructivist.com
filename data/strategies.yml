@@ -1,25 +1,43 @@
-details:
-  - title: Meta Archive
-    color: light
-    image: assets/images/1-MA.jpg
-  
-  - title: Info Diagnostics
-    color: light
-    image: assets/images/2-ICS.jpg
-    
-  - title: Factography
-    color: light
-    image: assets/images/3-FG.jpg
-    
-  - title: Vector Montage
-    color: dark
-    image: assets/images/4-VM.jpg
+---
+meta-archive:
+  title: Meta Archive
+  description: >
+    Cure impedit dicta quia dolor possimus quasi. Eum quia totam dicta maxime et tempora placeat illum. Sunt voluptatem assumenda consequatur. Quae et ut eum eos laborum eius cupiditate occaecati. Minus ipsum occaecati suscipit expedita nobis non iure nobis reprehenderit aut ut. Adipisci debitis cum enim qui dolorem provident labore enim
+  image: assets/images/1-MA.jpg
+  color: light
 
-  - title: Non-material Restoration
-    color: dark
-    image: assets/images/5-NMR.jpg
+info-diagnostics:
+  title: Info Diagnostics
+  description: >
+    Repellat enim vitae necessitatibus doloremque voluptas qui. Vel nemo similique voluptas cupiditate reiciendis sunt sed incidunt rem cum et explicabo nihil. Iusto dolor aut ab mollitia qui. Et tenetur eos fugit at molestiae excepturi aut earum sint consectetur quo rem aliquam
+  image: assets/images/2-ICS.jpg
+  color: light
 
-  - title: Immersive Mechanics
-    color: dark
-    image: assets/images/6-IM.jpg
+factography:
+  title: Factography
+  description: >
+    Cure impedit dicta quia dolor possimus quasi. Eum quia totam dicta maxime et tempora placeat illum. Sunt voluptatem assumenda consequatur. Quae et ut eum eos laborum eius cupiditate occaecati. Minus ipsum occaecati suscipit expedita nobis non iure nobis reprehenderit aut ut. Adipisci debitis cum enim qui dolorem provident labore enim
+  image: assets/images/3-FG.jpg
+  color: light
+
+vector-montage:
+  title: Vector Montage
+  description: >
+    Cure impedit dicta quia dolor possimus quasi. Eum quia totam dicta maxime et tempora placeat illum. Sunt voluptatem assumenda consequatur. Quae et ut eum eos laborum eius cupiditate occaecati. Minus ipsum occaecati suscipit expedita nobis non iure nobis reprehenderit aut ut. Adipisci debitis cum enim qui dolorem provident labore enim
+  image: assets/images/4-VM.jpg
+  color: dark
+
+non-material-restoration:
+  title: Non-material Restoration
+  description: >
+    Cure impedit dicta quia dolor possimus quasi. Eum quia totam dicta maxime et tempora placeat illum. Sunt voluptatem assumenda consequatur. Quae et ut eum eos laborum eius cupiditate occaecati. Minus ipsum occaecati suscipit expedita nobis non iure nobis reprehenderit aut ut. Adipisci debitis cum enim qui dolorem provident labore enim
+  image: assets/images/5-NMR.jpg
+  color: dark
+
+immersive-mechanics:
+  title: Immersive Mechanics
+  description: >
+    Cure impedit dicta quia dolor possimus quasi. Eum quia totam dicta maxime et tempora placeat illum. Sunt voluptatem assumenda consequatur. Quae et ut eum eos laborum eius cupiditate occaecati. Minus ipsum occaecati suscipit expedita nobis non iure nobis reprehenderit aut ut. Adipisci debitis cum enim qui dolorem provident labore enim
+  image: assets/images/6-IM.jpg
+  color: dark
     
