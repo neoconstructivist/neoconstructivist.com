@@ -1,10 +1,14 @@
 ---
-title: projects
+title: method
 ---
 
 - method = data.strategies[name]
 
 = partial "partials/intro", locals: { method: method }
+
 %section.project
-  - 5.times do |project|
-    = partial "partials/project", locals: { project: project }
+  - data.projects.each do |name, project|
+    - if !project.strategy.nil?
+      - project.strategy.each do |strategy|
+        - if strategy == method.title
+          = partial "partials/project", locals: { name: name, project: project }
