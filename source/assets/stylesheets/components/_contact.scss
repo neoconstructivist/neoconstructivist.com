@@ -1,0 +1,36 @@
+.contact-wrapper {
+  @include outer-container(100%); 
+
+  margin: 90px 0;
+}
+
+.contact__photo {
+  @include span-columns(6);
+}
+
+.contact__info {
+  @include span-columns(6);
+}
+
+.contact__item {
+  margin-bottom: 40px;
+}
+
+.contact__title {
+  font-size: 40px;
+  line-height: 1.2;
+}
+
+.contact__email {
+  font-size: 20px;
+  line-height: 1.2;
+}
+
+.contact__link {
+  color: $base-font-color;
+
+  &:hover,
+  &:visited {
+    color: $base-font-color;
+  }
+}
