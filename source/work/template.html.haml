@@ -1,0 +1,36 @@
+---
+title: work
+---
+
+- project = data.projects[name]
+
+%article.project__wrapper
+  .project__image-wrapper
+    - if !project.images.nil?
+      - project.images.each do |image|
+        .project__photo
+          = image_tag image, class: "project__image"
+  .project__info
+    %h2.project__title 
+      = project.title
+    .project__meta
+      - if !project.strategy.nil?
+        - project.strategy.each do |strategy|
+          .project__method
+            = strategy
+      - if !project.domain.nil?
+        - project.domain.each do |domain|
+          .project__domain
+            = domain
+    - if !project.text.nil?
+      - project.text.each do |text|
+        .project__description
+          = text
+    - if !project.category.nil?
+      .project__category
+        %ul.category__list
+          - project.category.each do |category|
+            %li.category__item
+              = link_to "categories/#{category.parameterize}/", class: "category__link" do
+                = category
+
