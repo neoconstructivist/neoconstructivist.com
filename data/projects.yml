@@ -16,8 +16,14 @@ neoconstructivist-lab:
     - Conceptual Design 
     - Book 
     - Web
-  image: assets/images/3-FG.jpg
-
+  image_thumb: assets/images/3-FG.jpg
+  images:
+    - assets/images/3-FG.jpg 
+  text: 
+    - Voluptatem aut quaerat commodi id iusto omnis nihil atque eius incidunt tenetur harum. Ad provident veritatis numquam. Ut dolor molestiae quo illum sed quam nulla error qui eaque ut. Debitis numquam provident placeat. Quas enim earum ut modi nulla officiis autem dolor corrupti. Beatae sequi deserunt repellendus modi libero est rerum libero numquam. Voluptas aliquam laboriosam dolor quisquam debitis dolorum unde quisquam assumenda nostrum occaecati pariatur. Occaecati maiores ea excepturi repellendus quia. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
+    - Nemo illum corrupti esse omnis consequatur accusantium qui quibusdam et. Adipisci est recusandae repudiandae qui fugiat alias eius. Sed aut omnis voluptas aut odio minima excepturi qui quaerat libero velit et id. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
+    - Ut dolor molestiae quo illum sed quam nulla error qui eaque ut. Debitis numquam provident placeat. Quas enim earum ut modi nulla officiis autem dolor corrupti. Beatae sequi deserunt repellendus modi libero est rerum libero numquam. Voluptas aliquam laboriosam dolor quisquam debitis dolorum unde quisquam assumenda nostrum occaecati pariatur. Occaecati maiores ea excepturi repellendus quia. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
+    
 minsk-coffee-stories:
   status: Developing..
   title: Minsk Coffee Stories
@@ -33,7 +39,18 @@ minsk-coffee-stories:
   category: 
     - Book 
     - Storytelling
-  image: assets/images/3-FG.jpg
+  image_thumb: assets/images/3-FG.jpg
+  images:
+    - assets/images/3-FG.jpg
+    - assets/images/6-IM.jpg
+    - assets/images/1-MA.jpg
+  text: 
+    - Molestiae excepturi consectetur est eveniet alias nesciunt in assumenda. Perferendis architecto excepturi nam quis odio perferendis quo. Nemo illum corrupti esse omnis consequatur accusantium qui quibusdam et. Adipisci est recusandae repudiandae qui fugiat alias eius. Sed aut omnis voluptas aut odio minima excepturi qui quaerat libero velit et id.
+    - Consequatur vero impedit et consequatur et ipsum veritatis deserunt alias delectus. Iure laborum distinctio sit at deleniti. Amet non mollitia rem atque et laborum saepe cupiditate aut porro dolorem. Qui quam id illum quidem minus voluptatibus. Et dolorem velit possimus consequatur quas corporis facilis quia assumenda nostrum adipisci quisquam ex.
+    - Voluptatem aut quaerat commodi id iusto omnis nihil atque eius incidunt tenetur harum. Ad provident veritatis numquam. Ut dolor molestiae quo illum sed quam nulla error qui eaque ut. Debitis numquam provident placeat. Quas enim earum ut modi nulla officiis autem dolor corrupti. Beatae sequi deserunt repellendus modi libero est rerum libero numquam. Voluptas aliquam laboriosam dolor quisquam debitis dolorum unde quisquam assumenda nostrum occaecati pariatur. Occaecati maiores ea excepturi repellendus quia. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
+    - Nemo illum corrupti esse omnis consequatur accusantium qui quibusdam et. Adipisci est recusandae repudiandae qui fugiat alias eius. Sed aut omnis voluptas aut odio minima excepturi qui quaerat libero velit et id. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
+    - Ut dolor molestiae quo illum sed quam nulla error qui eaque ut. Debitis numquam provident placeat. Quas enim earum ut modi nulla officiis autem dolor corrupti. Beatae sequi deserunt repellendus modi libero est rerum libero numquam. Voluptas aliquam laboriosam dolor quisquam debitis dolorum unde quisquam assumenda nostrum occaecati pariatur. Occaecati maiores ea excepturi repellendus quia. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
+    - Consequatur vero impedit et consequatur et ipsum veritatis deserunt alias delectus. Iure laborum distinctio sit at deleniti. Amet non mollitia rem atque et laborum saepe cupiditate aut porro dolorem. Qui quam id illum quidem minus voluptatibus. Et dolorem velit possimus consequatur quas corporis facilis quia assumenda nostrum adipisci quisquam ex.
   
 cultural-coffee:
   status: Developing..
@@ -51,7 +68,13 @@ cultural-coffee:
     - Participation
     - Coding
     - Storytelling
-  image: assets/images/6-IM.jpg
+  image_thumb: assets/images/6-IM.jpg
+  images:
+    - assets/images/3-FG.jpg 
+  text: 
+    - Voluptatem aut quaerat commodi id iusto omnis nihil atque eius incidunt tenetur harum. Ad provident veritatis numquam. Ut dolor molestiae quo illum sed quam nulla error qui eaque ut. Debitis numquam provident placeat. Quas enim earum ut modi nulla officiis autem dolor corrupti. Beatae sequi deserunt repellendus modi libero est rerum libero numquam. Voluptas aliquam laboriosam dolor quisquam debitis dolorum unde quisquam assumenda nostrum occaecati pariatur. Occaecati maiores ea excepturi repellendus quia. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
+    - Nemo illum corrupti esse omnis consequatur accusantium qui quibusdam et. Adipisci est recusandae repudiandae qui fugiat alias eius. Sed aut omnis voluptas aut odio minima excepturi qui quaerat libero velit et id. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
+    - Ut dolor molestiae quo illum sed quam nulla error qui eaque ut. Debitis numquam provident placeat. Quas enim earum ut modi nulla officiis autem dolor corrupti. Beatae sequi deserunt repellendus modi libero est rerum libero numquam. Voluptas aliquam laboriosam dolor quisquam debitis dolorum unde quisquam assumenda nostrum occaecati pariatur. Occaecati maiores ea excepturi repellendus quia. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
 
 literally-about-letters:
   status: 
@@ -67,7 +90,13 @@ literally-about-letters:
   category: 
     - Participation
     - Storytelling
-  image: assets/images/3-FG.jpg
+  image_thumb: assets/images/3-FG.jpg
+  images:
+    - assets/images/3-FG.jpg 
+  text: 
+    - Voluptatem aut quaerat commodi id iusto omnis nihil atque eius incidunt tenetur harum. Ad provident veritatis numquam. Ut dolor molestiae quo illum sed quam nulla error qui eaque ut. Debitis numquam provident placeat. Quas enim earum ut modi nulla officiis autem dolor corrupti. Beatae sequi deserunt repellendus modi libero est rerum libero numquam. Voluptas aliquam laboriosam dolor quisquam debitis dolorum unde quisquam assumenda nostrum occaecati pariatur. Occaecati maiores ea excepturi repellendus quia. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
+    - Nemo illum corrupti esse omnis consequatur accusantium qui quibusdam et. Adipisci est recusandae repudiandae qui fugiat alias eius. Sed aut omnis voluptas aut odio minima excepturi qui quaerat libero velit et id. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
+    - Ut dolor molestiae quo illum sed quam nulla error qui eaque ut. Debitis numquam provident placeat. Quas enim earum ut modi nulla officiis autem dolor corrupti. Beatae sequi deserunt repellendus modi libero est rerum libero numquam. Voluptas aliquam laboriosam dolor quisquam debitis dolorum unde quisquam assumenda nostrum occaecati pariatur. Occaecati maiores ea excepturi repellendus quia. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
   
 rural-lifestyle:
   status: 
@@ -83,7 +112,13 @@ rural-lifestyle:
   category: 
     - Reproduction
     - Photography
-  image: assets/images/3-FG.jpg
+  image_thumb: assets/images/3-FG.jpg
+  images:
+    - assets/images/3-FG.jpg 
+  text: 
+    - Voluptatem aut quaerat commodi id iusto omnis nihil atque eius incidunt tenetur harum. Ad provident veritatis numquam. Ut dolor molestiae quo illum sed quam nulla error qui eaque ut. Debitis numquam provident placeat. Quas enim earum ut modi nulla officiis autem dolor corrupti. Beatae sequi deserunt repellendus modi libero est rerum libero numquam. Voluptas aliquam laboriosam dolor quisquam debitis dolorum unde quisquam assumenda nostrum occaecati pariatur. Occaecati maiores ea excepturi repellendus quia. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
+    - Nemo illum corrupti esse omnis consequatur accusantium qui quibusdam et. Adipisci est recusandae repudiandae qui fugiat alias eius. Sed aut omnis voluptas aut odio minima excepturi qui quaerat libero velit et id. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
+    - Ut dolor molestiae quo illum sed quam nulla error qui eaque ut. Debitis numquam provident placeat. Quas enim earum ut modi nulla officiis autem dolor corrupti. Beatae sequi deserunt repellendus modi libero est rerum libero numquam. Voluptas aliquam laboriosam dolor quisquam debitis dolorum unde quisquam assumenda nostrum occaecati pariatur. Occaecati maiores ea excepturi repellendus quia. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
 
 kafe-kultura:
   status: Ongoing Experiment..
@@ -101,7 +136,13 @@ kafe-kultura:
   category: 
     - Experimental Design
     - Conceptual Design
-  image: assets/images/1-MA.jpg
+  image_thumb: assets/images/1-MA.jpg
+  images:
+    - assets/images/3-FG.jpg 
+  text: 
+    - Voluptatem aut quaerat commodi id iusto omnis nihil atque eius incidunt tenetur harum. Ad provident veritatis numquam. Ut dolor molestiae quo illum sed quam nulla error qui eaque ut. Debitis numquam provident placeat. Quas enim earum ut modi nulla officiis autem dolor corrupti. Beatae sequi deserunt repellendus modi libero est rerum libero numquam. Voluptas aliquam laboriosam dolor quisquam debitis dolorum unde quisquam assumenda nostrum occaecati pariatur. Occaecati maiores ea excepturi repellendus quia. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
+    - Nemo illum corrupti esse omnis consequatur accusantium qui quibusdam et. Adipisci est recusandae repudiandae qui fugiat alias eius. Sed aut omnis voluptas aut odio minima excepturi qui quaerat libero velit et id. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
+    - Ut dolor molestiae quo illum sed quam nulla error qui eaque ut. Debitis numquam provident placeat. Quas enim earum ut modi nulla officiis autem dolor corrupti. Beatae sequi deserunt repellendus modi libero est rerum libero numquam. Voluptas aliquam laboriosam dolor quisquam debitis dolorum unde quisquam assumenda nostrum occaecati pariatur. Occaecati maiores ea excepturi repellendus quia. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
 
 war-against-war:
   status: 
@@ -119,7 +160,13 @@ war-against-war:
     - Art Curating
     - Spatial Design
     - Storytelling
-  image: assets/images/5-NMR.jpg
+  image_thumb: assets/images/5-NMR.jpg
+  images:
+    - assets/images/3-FG.jpg 
+  text: 
+    - Voluptatem aut quaerat commodi id iusto omnis nihil atque eius incidunt tenetur harum. Ad provident veritatis numquam. Ut dolor molestiae quo illum sed quam nulla error qui eaque ut. Debitis numquam provident placeat. Quas enim earum ut modi nulla officiis autem dolor corrupti. Beatae sequi deserunt repellendus modi libero est rerum libero numquam. Voluptas aliquam laboriosam dolor quisquam debitis dolorum unde quisquam assumenda nostrum occaecati pariatur. Occaecati maiores ea excepturi repellendus quia. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
+    - Nemo illum corrupti esse omnis consequatur accusantium qui quibusdam et. Adipisci est recusandae repudiandae qui fugiat alias eius. Sed aut omnis voluptas aut odio minima excepturi qui quaerat libero velit et id. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
+    - Ut dolor molestiae quo illum sed quam nulla error qui eaque ut. Debitis numquam provident placeat. Quas enim earum ut modi nulla officiis autem dolor corrupti. Beatae sequi deserunt repellendus modi libero est rerum libero numquam. Voluptas aliquam laboriosam dolor quisquam debitis dolorum unde quisquam assumenda nostrum occaecati pariatur. Occaecati maiores ea excepturi repellendus quia. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
 
 laboratory-of-photograph-restoration:
   status: Ongoing Experiment..
@@ -133,7 +180,13 @@ laboratory-of-photograph-restoration:
     Et doloribus nesciunt ut aut nam aliquam voluptas aut voluptatem non 
     quasi assumenda
   category: 
-  image: assets/images/5-NMR.jpg
+  image_thumb: assets/images/5-NMR.jpg
+  images:
+    - assets/images/3-FG.jpg 
+  text: 
+    - Voluptatem aut quaerat commodi id iusto omnis nihil atque eius incidunt tenetur harum. Ad provident veritatis numquam. Ut dolor molestiae quo illum sed quam nulla error qui eaque ut. Debitis numquam provident placeat. Quas enim earum ut modi nulla officiis autem dolor corrupti. Beatae sequi deserunt repellendus modi libero est rerum libero numquam. Voluptas aliquam laboriosam dolor quisquam debitis dolorum unde quisquam assumenda nostrum occaecati pariatur. Occaecati maiores ea excepturi repellendus quia. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
+    - Nemo illum corrupti esse omnis consequatur accusantium qui quibusdam et. Adipisci est recusandae repudiandae qui fugiat alias eius. Sed aut omnis voluptas aut odio minima excepturi qui quaerat libero velit et id. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
+    - Ut dolor molestiae quo illum sed quam nulla error qui eaque ut. Debitis numquam provident placeat. Quas enim earum ut modi nulla officiis autem dolor corrupti. Beatae sequi deserunt repellendus modi libero est rerum libero numquam. Voluptas aliquam laboriosam dolor quisquam debitis dolorum unde quisquam assumenda nostrum occaecati pariatur. Occaecati maiores ea excepturi repellendus quia. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
 
 wwa-in-army-museum-stockholm:
   status: 
@@ -151,7 +204,13 @@ wwa-in-army-museum-stockholm:
     - Art Curating
     - Architect
     - Experiential Design
-  image: assets/images/5-NMR.jpg
+  image_thumb: assets/images/5-NMR.jpg
+  images:
+    - assets/images/3-FG.jpg 
+  text: 
+    - Voluptatem aut quaerat commodi id iusto omnis nihil atque eius incidunt tenetur harum. Ad provident veritatis numquam. Ut dolor molestiae quo illum sed quam nulla error qui eaque ut. Debitis numquam provident placeat. Quas enim earum ut modi nulla officiis autem dolor corrupti. Beatae sequi deserunt repellendus modi libero est rerum libero numquam. Voluptas aliquam laboriosam dolor quisquam debitis dolorum unde quisquam assumenda nostrum occaecati pariatur. Occaecati maiores ea excepturi repellendus quia. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
+    - Nemo illum corrupti esse omnis consequatur accusantium qui quibusdam et. Adipisci est recusandae repudiandae qui fugiat alias eius. Sed aut omnis voluptas aut odio minima excepturi qui quaerat libero velit et id. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
+    - Ut dolor molestiae quo illum sed quam nulla error qui eaque ut. Debitis numquam provident placeat. Quas enim earum ut modi nulla officiis autem dolor corrupti. Beatae sequi deserunt repellendus modi libero est rerum libero numquam. Voluptas aliquam laboriosam dolor quisquam debitis dolorum unde quisquam assumenda nostrum occaecati pariatur. Occaecati maiores ea excepturi repellendus quia. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
 
 venice-biennale-digital-interaction:
   status: 
@@ -176,7 +235,13 @@ venice-biennale-digital-interaction:
     - Participation
     - Immersive Art
     - Photography
-  image: assets/images/6-IM.jpg
+  image_thumb: assets/images/6-IM.jpg
+  images:
+    - assets/images/3-FG.jpg 
+  text: 
+    - Voluptatem aut quaerat commodi id iusto omnis nihil atque eius incidunt tenetur harum. Ad provident veritatis numquam. Ut dolor molestiae quo illum sed quam nulla error qui eaque ut. Debitis numquam provident placeat. Quas enim earum ut modi nulla officiis autem dolor corrupti. Beatae sequi deserunt repellendus modi libero est rerum libero numquam. Voluptas aliquam laboriosam dolor quisquam debitis dolorum unde quisquam assumenda nostrum occaecati pariatur. Occaecati maiores ea excepturi repellendus quia. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
+    - Nemo illum corrupti esse omnis consequatur accusantium qui quibusdam et. Adipisci est recusandae repudiandae qui fugiat alias eius. Sed aut omnis voluptas aut odio minima excepturi qui quaerat libero velit et id. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
+    - Ut dolor molestiae quo illum sed quam nulla error qui eaque ut. Debitis numquam provident placeat. Quas enim earum ut modi nulla officiis autem dolor corrupti. Beatae sequi deserunt repellendus modi libero est rerum libero numquam. Voluptas aliquam laboriosam dolor quisquam debitis dolorum unde quisquam assumenda nostrum occaecati pariatur. Occaecati maiores ea excepturi repellendus quia. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
 
 venice-biennale-analog-interaction:
   status: 
@@ -200,7 +265,13 @@ venice-biennale-analog-interaction:
     - Participation
     - Immersive Art
     - Photography
-  image: assets/images/1-MA.jpg
+  image_thumb: assets/images/1-MA.jpg
+  images:
+    - assets/images/3-FG.jpg 
+  text: 
+    - Voluptatem aut quaerat commodi id iusto omnis nihil atque eius incidunt tenetur harum. Ad provident veritatis numquam. Ut dolor molestiae quo illum sed quam nulla error qui eaque ut. Debitis numquam provident placeat. Quas enim earum ut modi nulla officiis autem dolor corrupti. Beatae sequi deserunt repellendus modi libero est rerum libero numquam. Voluptas aliquam laboriosam dolor quisquam debitis dolorum unde quisquam assumenda nostrum occaecati pariatur. Occaecati maiores ea excepturi repellendus quia. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
+    - Nemo illum corrupti esse omnis consequatur accusantium qui quibusdam et. Adipisci est recusandae repudiandae qui fugiat alias eius. Sed aut omnis voluptas aut odio minima excepturi qui quaerat libero velit et id. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
+    - Ut dolor molestiae quo illum sed quam nulla error qui eaque ut. Debitis numquam provident placeat. Quas enim earum ut modi nulla officiis autem dolor corrupti. Beatae sequi deserunt repellendus modi libero est rerum libero numquam. Voluptas aliquam laboriosam dolor quisquam debitis dolorum unde quisquam assumenda nostrum occaecati pariatur. Occaecati maiores ea excepturi repellendus quia. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
 
 archive-books-for-the-wwa-art-installation:
   status: 
@@ -220,7 +291,13 @@ archive-books-for-the-wwa-art-installation:
     - Archive
     - Photography
     - Book
-  image: assets/images/5-NMR.jpg
+  image_thumb: assets/images/5-NMR.jpg
+  images:
+    - assets/images/3-FG.jpg 
+  text: 
+    - Voluptatem aut quaerat commodi id iusto omnis nihil atque eius incidunt tenetur harum. Ad provident veritatis numquam. Ut dolor molestiae quo illum sed quam nulla error qui eaque ut. Debitis numquam provident placeat. Quas enim earum ut modi nulla officiis autem dolor corrupti. Beatae sequi deserunt repellendus modi libero est rerum libero numquam. Voluptas aliquam laboriosam dolor quisquam debitis dolorum unde quisquam assumenda nostrum occaecati pariatur. Occaecati maiores ea excepturi repellendus quia. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
+    - Nemo illum corrupti esse omnis consequatur accusantium qui quibusdam et. Adipisci est recusandae repudiandae qui fugiat alias eius. Sed aut omnis voluptas aut odio minima excepturi qui quaerat libero velit et id. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
+    - Ut dolor molestiae quo illum sed quam nulla error qui eaque ut. Debitis numquam provident placeat. Quas enim earum ut modi nulla officiis autem dolor corrupti. Beatae sequi deserunt repellendus modi libero est rerum libero numquam. Voluptas aliquam laboriosam dolor quisquam debitis dolorum unde quisquam assumenda nostrum occaecati pariatur. Occaecati maiores ea excepturi repellendus quia. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
 
 wwa-interaction-with-memories:
   status: Ongoing Experiment..
@@ -237,7 +314,13 @@ wwa-interaction-with-memories:
     quasi assumenda
   category: 
     - Art Curating
-  image: assets/images/5-NMR.jpg
+  image_thumb: assets/images/5-NMR.jpg
+  images:
+    - assets/images/3-FG.jpg 
+  text: 
+    - Voluptatem aut quaerat commodi id iusto omnis nihil atque eius incidunt tenetur harum. Ad provident veritatis numquam. Ut dolor molestiae quo illum sed quam nulla error qui eaque ut. Debitis numquam provident placeat. Quas enim earum ut modi nulla officiis autem dolor corrupti. Beatae sequi deserunt repellendus modi libero est rerum libero numquam. Voluptas aliquam laboriosam dolor quisquam debitis dolorum unde quisquam assumenda nostrum occaecati pariatur. Occaecati maiores ea excepturi repellendus quia. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
+    - Nemo illum corrupti esse omnis consequatur accusantium qui quibusdam et. Adipisci est recusandae repudiandae qui fugiat alias eius. Sed aut omnis voluptas aut odio minima excepturi qui quaerat libero velit et id. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
+    - Ut dolor molestiae quo illum sed quam nulla error qui eaque ut. Debitis numquam provident placeat. Quas enim earum ut modi nulla officiis autem dolor corrupti. Beatae sequi deserunt repellendus modi libero est rerum libero numquam. Voluptas aliquam laboriosam dolor quisquam debitis dolorum unde quisquam assumenda nostrum occaecati pariatur. Occaecati maiores ea excepturi repellendus quia. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
 
 birth-of-creative-city:
   status: 
@@ -252,7 +335,13 @@ birth-of-creative-city:
     quasi assumenda
   category: 
     - Art Curating
-  image: assets/images/3-FG.jpg
+  image_thumb: assets/images/3-FG.jpg
+  images:
+    - assets/images/3-FG.jpg 
+  text: 
+    - Voluptatem aut quaerat commodi id iusto omnis nihil atque eius incidunt tenetur harum. Ad provident veritatis numquam. Ut dolor molestiae quo illum sed quam nulla error qui eaque ut. Debitis numquam provident placeat. Quas enim earum ut modi nulla officiis autem dolor corrupti. Beatae sequi deserunt repellendus modi libero est rerum libero numquam. Voluptas aliquam laboriosam dolor quisquam debitis dolorum unde quisquam assumenda nostrum occaecati pariatur. Occaecati maiores ea excepturi repellendus quia. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
+    - Nemo illum corrupti esse omnis consequatur accusantium qui quibusdam et. Adipisci est recusandae repudiandae qui fugiat alias eius. Sed aut omnis voluptas aut odio minima excepturi qui quaerat libero velit et id. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
+    - Ut dolor molestiae quo illum sed quam nulla error qui eaque ut. Debitis numquam provident placeat. Quas enim earum ut modi nulla officiis autem dolor corrupti. Beatae sequi deserunt repellendus modi libero est rerum libero numquam. Voluptas aliquam laboriosam dolor quisquam debitis dolorum unde quisquam assumenda nostrum occaecati pariatur. Occaecati maiores ea excepturi repellendus quia. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
 
 amnezia:
   status: 
@@ -265,7 +354,13 @@ amnezia:
     Et doloribus nesciunt ut aut nam aliquam voluptas aut voluptatem non 
     quasi assumenda
   category: 
-  image: assets/images/3-FG.jpg
+  image_thumb: assets/images/3-FG.jpg
+  images:
+    - assets/images/3-FG.jpg 
+  text: 
+    - Voluptatem aut quaerat commodi id iusto omnis nihil atque eius incidunt tenetur harum. Ad provident veritatis numquam. Ut dolor molestiae quo illum sed quam nulla error qui eaque ut. Debitis numquam provident placeat. Quas enim earum ut modi nulla officiis autem dolor corrupti. Beatae sequi deserunt repellendus modi libero est rerum libero numquam. Voluptas aliquam laboriosam dolor quisquam debitis dolorum unde quisquam assumenda nostrum occaecati pariatur. Occaecati maiores ea excepturi repellendus quia. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
+    - Nemo illum corrupti esse omnis consequatur accusantium qui quibusdam et. Adipisci est recusandae repudiandae qui fugiat alias eius. Sed aut omnis voluptas aut odio minima excepturi qui quaerat libero velit et id. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
+    - Ut dolor molestiae quo illum sed quam nulla error qui eaque ut. Debitis numquam provident placeat. Quas enim earum ut modi nulla officiis autem dolor corrupti. Beatae sequi deserunt repellendus modi libero est rerum libero numquam. Voluptas aliquam laboriosam dolor quisquam debitis dolorum unde quisquam assumenda nostrum occaecati pariatur. Occaecati maiores ea excepturi repellendus quia. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
 
 olympic:
   status: 
@@ -283,7 +378,13 @@ olympic:
     - Art Curating
     - Light
     - Experiential Design
-  image: assets/images/6-IM.jpg
+  image_thumb: assets/images/6-IM.jpg
+  images:
+    - assets/images/3-FG.jpg 
+  text: 
+    - Voluptatem aut quaerat commodi id iusto omnis nihil atque eius incidunt tenetur harum. Ad provident veritatis numquam. Ut dolor molestiae quo illum sed quam nulla error qui eaque ut. Debitis numquam provident placeat. Quas enim earum ut modi nulla officiis autem dolor corrupti. Beatae sequi deserunt repellendus modi libero est rerum libero numquam. Voluptas aliquam laboriosam dolor quisquam debitis dolorum unde quisquam assumenda nostrum occaecati pariatur. Occaecati maiores ea excepturi repellendus quia. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
+    - Nemo illum corrupti esse omnis consequatur accusantium qui quibusdam et. Adipisci est recusandae repudiandae qui fugiat alias eius. Sed aut omnis voluptas aut odio minima excepturi qui quaerat libero velit et id. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
+    - Ut dolor molestiae quo illum sed quam nulla error qui eaque ut. Debitis numquam provident placeat. Quas enim earum ut modi nulla officiis autem dolor corrupti. Beatae sequi deserunt repellendus modi libero est rerum libero numquam. Voluptas aliquam laboriosam dolor quisquam debitis dolorum unde quisquam assumenda nostrum occaecati pariatur. Occaecati maiores ea excepturi repellendus quia. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
 
 belarus-during-ww1:
   status: 
@@ -303,7 +404,13 @@ belarus-during-ww1:
     - Research
     - Storytelling
     - Light
-  image: assets/images/5-NMR.jpg
+  image_thumb: assets/images/5-NMR.jpg
+  images:
+    - assets/images/3-FG.jpg 
+  text: 
+    - Voluptatem aut quaerat commodi id iusto omnis nihil atque eius incidunt tenetur harum. Ad provident veritatis numquam. Ut dolor molestiae quo illum sed quam nulla error qui eaque ut. Debitis numquam provident placeat. Quas enim earum ut modi nulla officiis autem dolor corrupti. Beatae sequi deserunt repellendus modi libero est rerum libero numquam. Voluptas aliquam laboriosam dolor quisquam debitis dolorum unde quisquam assumenda nostrum occaecati pariatur. Occaecati maiores ea excepturi repellendus quia. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
+    - Nemo illum corrupti esse omnis consequatur accusantium qui quibusdam et. Adipisci est recusandae repudiandae qui fugiat alias eius. Sed aut omnis voluptas aut odio minima excepturi qui quaerat libero velit et id. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
+    - Ut dolor molestiae quo illum sed quam nulla error qui eaque ut. Debitis numquam provident placeat. Quas enim earum ut modi nulla officiis autem dolor corrupti. Beatae sequi deserunt repellendus modi libero est rerum libero numquam. Voluptas aliquam laboriosam dolor quisquam debitis dolorum unde quisquam assumenda nostrum occaecati pariatur. Occaecati maiores ea excepturi repellendus quia. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
 
 memory-interpretation-as-conservation-of-the-museum-object:
   status: Prototype..
@@ -321,7 +428,13 @@ memory-interpretation-as-conservation-of-the-museum-object:
     - Art Curating
     - Research
     - Storytelling
-  image: assets/images/5-NMR.jpg
+  image_thumb: assets/images/5-NMR.jpg
+  images:
+    - assets/images/3-FG.jpg 
+  text: 
+    - Voluptatem aut quaerat commodi id iusto omnis nihil atque eius incidunt tenetur harum. Ad provident veritatis numquam. Ut dolor molestiae quo illum sed quam nulla error qui eaque ut. Debitis numquam provident placeat. Quas enim earum ut modi nulla officiis autem dolor corrupti. Beatae sequi deserunt repellendus modi libero est rerum libero numquam. Voluptas aliquam laboriosam dolor quisquam debitis dolorum unde quisquam assumenda nostrum occaecati pariatur. Occaecati maiores ea excepturi repellendus quia. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
+    - Nemo illum corrupti esse omnis consequatur accusantium qui quibusdam et. Adipisci est recusandae repudiandae qui fugiat alias eius. Sed aut omnis voluptas aut odio minima excepturi qui quaerat libero velit et id. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
+    - Ut dolor molestiae quo illum sed quam nulla error qui eaque ut. Debitis numquam provident placeat. Quas enim earum ut modi nulla officiis autem dolor corrupti. Beatae sequi deserunt repellendus modi libero est rerum libero numquam. Voluptas aliquam laboriosam dolor quisquam debitis dolorum unde quisquam assumenda nostrum occaecati pariatur. Occaecati maiores ea excepturi repellendus quia. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
 
 belarusian-factography:
   status: 
@@ -338,7 +451,13 @@ belarusian-factography:
   category: 
     - Art Curating
     - Photography
-  image: assets/images/3-FG.jpg
+  image_thumb: assets/images/3-FG.jpg
+  images:
+    - assets/images/3-FG.jpg 
+  text: 
+    - Voluptatem aut quaerat commodi id iusto omnis nihil atque eius incidunt tenetur harum. Ad provident veritatis numquam. Ut dolor molestiae quo illum sed quam nulla error qui eaque ut. Debitis numquam provident placeat. Quas enim earum ut modi nulla officiis autem dolor corrupti. Beatae sequi deserunt repellendus modi libero est rerum libero numquam. Voluptas aliquam laboriosam dolor quisquam debitis dolorum unde quisquam assumenda nostrum occaecati pariatur. Occaecati maiores ea excepturi repellendus quia. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
+    - Nemo illum corrupti esse omnis consequatur accusantium qui quibusdam et. Adipisci est recusandae repudiandae qui fugiat alias eius. Sed aut omnis voluptas aut odio minima excepturi qui quaerat libero velit et id. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
+    - Ut dolor molestiae quo illum sed quam nulla error qui eaque ut. Debitis numquam provident placeat. Quas enim earum ut modi nulla officiis autem dolor corrupti. Beatae sequi deserunt repellendus modi libero est rerum libero numquam. Voluptas aliquam laboriosam dolor quisquam debitis dolorum unde quisquam assumenda nostrum occaecati pariatur. Occaecati maiores ea excepturi repellendus quia. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
 
 center-of-photography-library:
   status: 
@@ -358,7 +477,13 @@ center-of-photography-library:
     - Coding
     - Book
     - Photography
-  image: assets/images/4-VM.jpg
+  image_thumb: assets/images/4-VM.jpg
+  images:
+    - assets/images/3-FG.jpg 
+  text: 
+    - Voluptatem aut quaerat commodi id iusto omnis nihil atque eius incidunt tenetur harum. Ad provident veritatis numquam. Ut dolor molestiae quo illum sed quam nulla error qui eaque ut. Debitis numquam provident placeat. Quas enim earum ut modi nulla officiis autem dolor corrupti. Beatae sequi deserunt repellendus modi libero est rerum libero numquam. Voluptas aliquam laboriosam dolor quisquam debitis dolorum unde quisquam assumenda nostrum occaecati pariatur. Occaecati maiores ea excepturi repellendus quia. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
+    - Nemo illum corrupti esse omnis consequatur accusantium qui quibusdam et. Adipisci est recusandae repudiandae qui fugiat alias eius. Sed aut omnis voluptas aut odio minima excepturi qui quaerat libero velit et id. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
+    - Ut dolor molestiae quo illum sed quam nulla error qui eaque ut. Debitis numquam provident placeat. Quas enim earum ut modi nulla officiis autem dolor corrupti. Beatae sequi deserunt repellendus modi libero est rerum libero numquam. Voluptas aliquam laboriosam dolor quisquam debitis dolorum unde quisquam assumenda nostrum occaecati pariatur. Occaecati maiores ea excepturi repellendus quia. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
 
 coloroom:
   status: 
@@ -375,7 +500,13 @@ coloroom:
   category: 
     - Conceptual Design
     - Engineering
-  image: assets/images/4-VM.jpg
+  image_thumb: assets/images/4-VM.jpg
+  images:
+    - assets/images/3-FG.jpg 
+  text: 
+    - Voluptatem aut quaerat commodi id iusto omnis nihil atque eius incidunt tenetur harum. Ad provident veritatis numquam. Ut dolor molestiae quo illum sed quam nulla error qui eaque ut. Debitis numquam provident placeat. Quas enim earum ut modi nulla officiis autem dolor corrupti. Beatae sequi deserunt repellendus modi libero est rerum libero numquam. Voluptas aliquam laboriosam dolor quisquam debitis dolorum unde quisquam assumenda nostrum occaecati pariatur. Occaecati maiores ea excepturi repellendus quia. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
+    - Nemo illum corrupti esse omnis consequatur accusantium qui quibusdam et. Adipisci est recusandae repudiandae qui fugiat alias eius. Sed aut omnis voluptas aut odio minima excepturi qui quaerat libero velit et id. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
+    - Ut dolor molestiae quo illum sed quam nulla error qui eaque ut. Debitis numquam provident placeat. Quas enim earum ut modi nulla officiis autem dolor corrupti. Beatae sequi deserunt repellendus modi libero est rerum libero numquam. Voluptas aliquam laboriosam dolor quisquam debitis dolorum unde quisquam assumenda nostrum occaecati pariatur. Occaecati maiores ea excepturi repellendus quia. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
 
 photo-editor:
   status: 
@@ -391,7 +522,13 @@ photo-editor:
     quasi assumenda
   category: 
     - Conceptual Design
-  image: assets/images/4-VM.jpg
+  image_thumb: assets/images/4-VM.jpg
+  images:
+    - assets/images/3-FG.jpg 
+  text: 
+    - Voluptatem aut quaerat commodi id iusto omnis nihil atque eius incidunt tenetur harum. Ad provident veritatis numquam. Ut dolor molestiae quo illum sed quam nulla error qui eaque ut. Debitis numquam provident placeat. Quas enim earum ut modi nulla officiis autem dolor corrupti. Beatae sequi deserunt repellendus modi libero est rerum libero numquam. Voluptas aliquam laboriosam dolor quisquam debitis dolorum unde quisquam assumenda nostrum occaecati pariatur. Occaecati maiores ea excepturi repellendus quia. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
+    - Nemo illum corrupti esse omnis consequatur accusantium qui quibusdam et. Adipisci est recusandae repudiandae qui fugiat alias eius. Sed aut omnis voluptas aut odio minima excepturi qui quaerat libero velit et id. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
+    - Ut dolor molestiae quo illum sed quam nulla error qui eaque ut. Debitis numquam provident placeat. Quas enim earum ut modi nulla officiis autem dolor corrupti. Beatae sequi deserunt repellendus modi libero est rerum libero numquam. Voluptas aliquam laboriosam dolor quisquam debitis dolorum unde quisquam assumenda nostrum occaecati pariatur. Occaecati maiores ea excepturi repellendus quia. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
 
 school-of-photography:
   status: 
@@ -408,7 +545,13 @@ school-of-photography:
   category: 
     - Conceptual Design
     - Photography
-  image: assets/images/4-VM.jpg
+  image_thumb: assets/images/4-VM.jpg
+  images:
+    - assets/images/3-FG.jpg 
+  text: 
+    - Voluptatem aut quaerat commodi id iusto omnis nihil atque eius incidunt tenetur harum. Ad provident veritatis numquam. Ut dolor molestiae quo illum sed quam nulla error qui eaque ut. Debitis numquam provident placeat. Quas enim earum ut modi nulla officiis autem dolor corrupti. Beatae sequi deserunt repellendus modi libero est rerum libero numquam. Voluptas aliquam laboriosam dolor quisquam debitis dolorum unde quisquam assumenda nostrum occaecati pariatur. Occaecati maiores ea excepturi repellendus quia. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
+    - Nemo illum corrupti esse omnis consequatur accusantium qui quibusdam et. Adipisci est recusandae repudiandae qui fugiat alias eius. Sed aut omnis voluptas aut odio minima excepturi qui quaerat libero velit et id. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
+    - Ut dolor molestiae quo illum sed quam nulla error qui eaque ut. Debitis numquam provident placeat. Quas enim earum ut modi nulla officiis autem dolor corrupti. Beatae sequi deserunt repellendus modi libero est rerum libero numquam. Voluptas aliquam laboriosam dolor quisquam debitis dolorum unde quisquam assumenda nostrum occaecati pariatur. Occaecati maiores ea excepturi repellendus quia. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
 
 forecasting-the-technical-state-of-machines:
   status: Prototype..
@@ -425,4 +568,10 @@ forecasting-the-technical-state-of-machines:
   category: 
     - Research
     - Engineering
-  image: assets/images/2-ICS.jpg
+  image_thumb: assets/images/2-ICS.jpg
+  images:
+    - assets/images/3-FG.jpg 
+  text: 
+    - Voluptatem aut quaerat commodi id iusto omnis nihil atque eius incidunt tenetur harum. Ad provident veritatis numquam. Ut dolor molestiae quo illum sed quam nulla error qui eaque ut. Debitis numquam provident placeat. Quas enim earum ut modi nulla officiis autem dolor corrupti. Beatae sequi deserunt repellendus modi libero est rerum libero numquam. Voluptas aliquam laboriosam dolor quisquam debitis dolorum unde quisquam assumenda nostrum occaecati pariatur. Occaecati maiores ea excepturi repellendus quia. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
+    - Nemo illum corrupti esse omnis consequatur accusantium qui quibusdam et. Adipisci est recusandae repudiandae qui fugiat alias eius. Sed aut omnis voluptas aut odio minima excepturi qui quaerat libero velit et id. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
+    - Ut dolor molestiae quo illum sed quam nulla error qui eaque ut. Debitis numquam provident placeat. Quas enim earum ut modi nulla officiis autem dolor corrupti. Beatae sequi deserunt repellendus modi libero est rerum libero numquam. Voluptas aliquam laboriosam dolor quisquam debitis dolorum unde quisquam assumenda nostrum occaecati pariatur. Occaecati maiores ea excepturi repellendus quia. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
