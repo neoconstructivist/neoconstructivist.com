@@ -1,11 +1,7 @@
 ---
-title: Projects
-description: 123
+title: work
 ---
 
-- method = current_page.data
-
-= partial "partials/intro", locals: { method: method }
 %section.project
-  - 5.times do |project|
-    = partial "partials/project", locals: { project: project }
+  - data.projects.each do |name, project|
+    = partial "partials/project", locals: { name: name, project: project }
