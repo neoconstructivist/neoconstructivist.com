@@ -1,43 +1,49 @@
 ---
 meta-archive:
   title: Meta Archive
-  description: >
-    Cure impedit dicta quia dolor possimus quasi. Eum quia totam dicta maxime et tempora placeat illum. Sunt voluptatem assumenda consequatur. Quae et ut eum eos laborum eius cupiditate occaecati. Minus ipsum occaecati suscipit expedita nobis non iure nobis reprehenderit aut ut. Adipisci debitis cum enim qui dolorem provident labore enim
+  description: Dynamic archive of objects and their contextual fields
+  text: >
+    A research method aimed at study of the nature of events through influence on the objects of events plunged in the archive with the layers of contexts. The method is based on the idea of nonlinear development of historic event. The event can stay unfinished and not pass to the category of the past but circulate influencing the categories of the present and the future. 
   image: assets/images/1-MA.jpg
   color: light
 
 info-diagnostics:
   title: Info Diagnostics
-  description: >
-    Repellat enim vitae necessitatibus doloremque voluptas qui. Vel nemo similique voluptas cupiditate reiciendis sunt sed incidunt rem cum et explicabo nihil. Iusto dolor aut ab mollitia qui. Et tenetur eos fugit at molestiae excepturi aut earum sint consectetur quo rem aliquam
+  description: Analytics of info images captured from technical systems data flow
+  text: >
+    Any object from material things can be studied as a physical object as well as an imaginary, non-material object. Museum restoration usually presupposes the restoration of physical characteristics, the material state of an object. Our method can be applied to its imaginary, valuable, non-material properties that get lost or become obsolete over time. The method is based on a presupposition concerning the increasing role of a myth of an object as well as the information field formed around it with a simultaneous weakening of man’s ability to feel the object materially.
   image: assets/images/2-ICS.jpg
   color: light
 
 factography:
   title: Factography
-  description: >
-    Cure impedit dicta quia dolor possimus quasi. Eum quia totam dicta maxime et tempora placeat illum. Sunt voluptatem assumenda consequatur. Quae et ut eum eos laborum eius cupiditate occaecati. Minus ipsum occaecati suscipit expedita nobis non iure nobis reprehenderit aut ut. Adipisci debitis cum enim qui dolorem provident labore enim
+  description: Myth and Sense of Visual Thinking
+  text: >
+    The modern interpretation of avant-garde method invented in Soviet Russia. Its essence was in creating objective, true stories made up of a set of documentary facts, a set of truths and real phenomena. Daily life in factography is interpreted as a series of facts creating nonlinear structures of time. The elements of factography comprise objects inspiring people’s absolute confidence. One of them is photography being decoded as one’s own view, as the means of documentation of one’s own view. It involves in the interpretation process visual images from one’s own memory as if we look at them now reviving an image in such a way. 
   image: assets/images/3-FG.jpg
   color: light
 
 vector-montage:
   title: Vector Montage
-  description: >
-    Cure impedit dicta quia dolor possimus quasi. Eum quia totam dicta maxime et tempora placeat illum. Sunt voluptatem assumenda consequatur. Quae et ut eum eos laborum eius cupiditate occaecati. Minus ipsum occaecati suscipit expedita nobis non iure nobis reprehenderit aut ut. Adipisci debitis cum enim qui dolorem provident labore enim
+  description: The use of vacuum energy for deployment of new constructions
+  text: >
+    While solution searching we choose areas with great potential, places with directed following energy. After finding it we make up a plan and a sweeping montage of solution with account to environment specifics and initial tasks of growing. This method resembles a natural way of a plant grow, a plant, which in search for habitat fills in a free space moving for the sun.
   image: assets/images/4-VM.jpg
   color: dark
 
 non-material-restoration:
   title: Non-material Restoration
-  description: >
-    Cure impedit dicta quia dolor possimus quasi. Eum quia totam dicta maxime et tempora placeat illum. Sunt voluptatem assumenda consequatur. Quae et ut eum eos laborum eius cupiditate occaecati. Minus ipsum occaecati suscipit expedita nobis non iure nobis reprehenderit aut ut. Adipisci debitis cum enim qui dolorem provident labore enim
+  description: Memory visualisation as a type of Non-material Restoration of the Museum objects
+  text: >
+    Any object from material things can be studied as a physical object as well as an imaginary, non-material object. Museum restoration usually presupposes the restoration of physical characteristics, the material state of an object. Our method can be applied to its imaginary, valuable, non-material properties that get lost or become obsolete over time. The method is based on a presupposition concerning the increasing role of a myth of an object as well as the information field formed around it with a simultaneous weakening of man’s ability to feel the object materially.
   image: assets/images/5-NMR.jpg
   color: dark
 
 immersive-mechanics:
   title: Immersive Mechanics
-  description: >
-    Cure impedit dicta quia dolor possimus quasi. Eum quia totam dicta maxime et tempora placeat illum. Sunt voluptatem assumenda consequatur. Quae et ut eum eos laborum eius cupiditate occaecati. Minus ipsum occaecati suscipit expedita nobis non iure nobis reprehenderit aut ut. Adipisci debitis cum enim qui dolorem provident labore enim
+  description: Digital-Physical art form 
+  text: >
+    Art construction of interaction between man and objects with the use of electronics and digital systems as well as machines and mechanisms. With the help of this method begins interaction with a contemporary person who can simultaneously be in the informational- virtual and physical material world. In project spaces part of information becomes mechanical while another part changes physical forms into virtual. 
   image: assets/images/6-IM.jpg
   color: dark
     

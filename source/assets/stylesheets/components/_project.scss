@@ -7,6 +7,15 @@
   margin-top: 90px;
 }
 
+.project-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+
+  margin-top: 60px;
+}
+
 .project__row {
   @include outer-container(100%);
 

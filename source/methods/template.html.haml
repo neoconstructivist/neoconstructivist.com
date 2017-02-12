@@ -6,7 +6,7 @@ title: method
 
 = partial "partials/intro", locals: { method: method }
 
-%section.project
+%section.project-wrapper
   - data.projects.each do |name, project|
     - if !project.strategy.nil?
       - project.strategy.each do |strategy|
