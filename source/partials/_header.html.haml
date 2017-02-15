@@ -1,8 +1,7 @@
 %header.page-header
   .logo 
-    = link_to "neoconstructivist",
-              "/index.html",
-              class: "logo__link"
+    = link_to "/index.html", class: "logo__link" do
+      = image_tag "assets/images/nc-logo.svg", class: "logo__image"
   %nav.menu
     %ul.menu__list
       %li.menu__item
