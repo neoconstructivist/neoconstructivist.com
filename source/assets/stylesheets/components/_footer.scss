@@ -6,7 +6,7 @@
   @include span-columns(6);
 
   font-size: 18px;
-  line-height: 1.2;
+  line-height: 1.35;
 }
 
 .social {
@@ -24,7 +24,7 @@
   margin-left: 25px;
 
   font-size: 18px;
-  line-height: 1.2;
+  line-height: 1.35;
   vertical-align: middle;
 
   &:first-child {
@@ -34,9 +34,10 @@
 
 .social__link {
   color: $base-font-color;
+  border-bottom: 1px solid $base-font-color;
 
   &:hover {
     color: $base-font-color;
-    border-bottom: 1px solid $base-font-color;
+    border-bottom: 0;
   }
 }
