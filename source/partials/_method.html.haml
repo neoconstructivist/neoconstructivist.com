@@ -3,9 +3,9 @@
     = image_tag method.image, class: "method__image"
     .method__meta
       - if method.color == "dark" 
-        %h1.method__title 
+        %h2.method__title 
           = method.title
       - else
-        %h1.method__title.method__title--dark
+        %h2.method__title.method__title--dark
           = method.title
       
