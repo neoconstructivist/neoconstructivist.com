@@ -3,24 +3,21 @@
     = link_to "#{name}/" do
       = image_tag project.image_thumb, class: "project__image"
   .project__info
-    %h2.project__title
+    %h1.project__title
       = link_to "#{name}/", class: "project__link" do
         = project.title
-    .project__meta
-      - if !project.strategy.nil?
-        - project.strategy.each do |strategy|
-          .project__method
-            = strategy
-      - if !project.domain.nil?
-        - project.domain.each do |domain|
-          .project__domain
-            = domain
-    .project__description
+    %h2.project__description
       = project.description
+    - if !project.text.nil?
+      %p.project__preview
+        = project.text[0]
     - if !project.category.nil?
       .project__category
         %ul.category__list
-          - project.category.each do |category|
-            %li.category__item
-              = link_to "categories/#{category.parameterize}/", class: "category__link" do
-                = category
+          - project.each do |key, value|
+            - if key == "strategy" || key == "domain" || key == "category"
+              - if !value.nil?
+                - value.each do |tag|
+                  %li.category__item
+                    = link_to "categories/#{tag.parameterize}/", class: "category__link" do
+                      = tag
