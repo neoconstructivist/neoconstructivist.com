@@ -22,6 +22,11 @@
   }
 }
 
+.logo__image {
+   width: auto;
+   height: 18px;
+}
+
 .menu {
   @include span-columns(6);
 }
