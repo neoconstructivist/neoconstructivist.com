@@ -63,7 +63,8 @@ cultural-coffee:
   images:
     - assets/images/3-FG.jpg 
   text: 
-    - Voluptatem aut quaerat commodi id iusto omnis nihil atque eius incidunt tenetur harum. Ad provident veritatis numquam. Ut dolor molestiae quo illum sed quam nulla error qui eaque ut. Debitis numquam provident placeat. Quas enim earum ut modi nulla officiis autem dolor corrupti. Beatae sequi deserunt repellendus modi libero est rerum libero numquam. Voluptas aliquam laboriosam dolor quisquam debitis dolorum unde quisquam assumenda nostrum occaecati pariatur. Occaecati maiores ea excepturi repellendus quia. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
+    - Voluptatem aut quaerat commodi id iusto omnis nihil atque eius incidunt tenetur harum. Ad provident veritatis numquam. Ut dolor molestiae quo illum sed quam nulla error qui eaque ut. Debitis numquam provident placeat. Quas enim earum ut modi nulla officiis autem dolor corrupti. Beatae sequi deserunt repellendus modi libero est rerum libero numquam.
+    - Voluptas aliquam laboriosam dolor quisquam debitis dolorum unde quisquam assumenda nostrum occaecati pariatur. Occaecati maiores ea excepturi repellendus quia. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
     - Nemo illum corrupti esse omnis consequatur accusantium qui quibusdam et. Adipisci est recusandae repudiandae qui fugiat alias eius. Sed aut omnis voluptas aut odio minima excepturi qui quaerat libero velit et id. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
     - Ut dolor molestiae quo illum sed quam nulla error qui eaque ut. Debitis numquam provident placeat. Quas enim earum ut modi nulla officiis autem dolor corrupti. Beatae sequi deserunt repellendus modi libero est rerum libero numquam. Voluptas aliquam laboriosam dolor quisquam debitis dolorum unde quisquam assumenda nostrum occaecati pariatur. Occaecati maiores ea excepturi repellendus quia. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
 
@@ -124,17 +125,20 @@ kafe-kultura:
     - Factography
   domain: 
     - Creative Industries
-  description: Molestiae excepturi consectetur est eveniet alias nesciunt in assumenda 
+  description: Coffee and Museum in one cup placed on a surface of urban life 
   category: 
     - Experimental Design
     - Conceptual Design
-  image_thumb: assets/images/1-MA.jpg
+  image_thumb: assets/images/kafekultura-1.jpg
   images:
-    - assets/images/3-FG.jpg 
+    - assets/images/kafekultura-1.jpg
+    - assets/images/kafekultura-2.jpg
+    - assets/images/kafekultura-3.jpg
+    - assets/images/kafekultura-4.jpg 
   text: 
-    - Voluptatem aut quaerat commodi id iusto omnis nihil atque eius incidunt tenetur harum. Ad provident veritatis numquam. Ut dolor molestiae quo illum sed quam nulla error qui eaque ut. Debitis numquam provident placeat. Quas enim earum ut modi nulla officiis autem dolor corrupti. Beatae sequi deserunt repellendus modi libero est rerum libero numquam. 
-    - Nemo illum corrupti esse omnis consequatur accusantium qui quibusdam et. Adipisci est recusandae repudiandae qui fugiat alias eius. Sed aut omnis voluptas aut odio minima excepturi qui quaerat libero velit et id. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis. Voluptas aliquam laboriosam dolor quisquam debitis dolorum unde quisquam assumenda nostrum occaecati pariatur. Occaecati maiores ea excepturi repellendus quia. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
-    - Ut dolor molestiae quo illum sed quam nulla error qui eaque ut. Debitis numquam provident placeat. Quas enim earum ut modi nulla officiis autem dolor corrupti. Beatae sequi deserunt repellendus modi libero est rerum libero numquam. Voluptas aliquam laboriosam dolor quisquam debitis dolorum unde quisquam assumenda nostrum occaecati pariatur. Occaecati maiores ea excepturi repellendus quia. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
+    - The idea to realize a project of an experimental café in Minsk has emerged at the moment of working on the National pavilion at the Venice Biennale. The idea was to invent a space with the conception of a café at the museum, so that there would be the feeling of a museum and a café at one and the same time. To create the prototype of a conceptual museum. 
+    - Another essential objective was to construct an urban space with the type of audience not typical for a cultural project, the audience, that was forming due to the randomness of urban traffic and need to drop in for 10 minutes, take some rest and drink a cup of coffee. I would like to update perpetually the interior of the café, experiment with expositions but all the processes should be payed off with coffee sale. The project succeeded and 2 years of its functioning revealed its new aspects I hadn’t thought of when projecting it.
+    - What kind of future I see for the Kafe Kultura. In this small café, that can be a future form of a 'conceptual museum' with its changing exhibitions of images and artifacts, I hope to extend the dialogue between citizens, visitors of cafe, between image and memory, between present and past. Currently I’m exploring the potential of building a physical copy of the café for transfer and installation at various possible sites within the EU. The idea being to present through video cameras, and Mobile App a real time mirror of life as it is simultaneously experienced in the network of cafes, one in Minsk, the others in a new temporary location.
 
 war-against-war:
   status: 
@@ -323,6 +327,10 @@ amnezia:
   images:
     - assets/images/3-FG.jpg 
   text: 
+    - Voluptatem aut quaerat commodi id iusto omnis nihil atque eius incidunt tenetur harum. Ad provident veritatis numquam. Ut dolor molestiae quo illum sed quam nulla error qui eaque ut. Debitis numquam provident placeat. Quas enim earum ut modi nulla officiis autem dolor corrupti. Beatae sequi deserunt repellendus modi libero est rerum libero numquam.
+    - Voluptas aliquam laboriosam dolor quisquam debitis dolorum unde quisquam assumenda nostrum occaecati pariatur. Occaecati maiores ea excepturi repellendus quia. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
+    - Nemo illum corrupti esse omnis consequatur accusantium qui quibusdam et. Adipisci est recusandae repudiandae qui fugiat alias eius. Sed aut omnis voluptas aut odio minima excepturi qui quaerat libero velit et id. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
+    - Ut dolor molestiae quo illum sed quam nulla error qui eaque ut. Debitis numquam provident placeat. Quas enim earum ut modi nulla officiis autem dolor corrupti. Beatae sequi deserunt repellendus modi libero est rerum libero numquam. Voluptas aliquam laboriosam dolor quisquam debitis dolorum unde quisquam assumenda nostrum occaecati pariatur. Occaecati maiores ea excepturi repellendus quia. Voluptates minima nihil totam illum quibusdam sunt eos placeat nihil corporis. Quis labore consequuntur omnis similique quod. Provident dolores adipisci sit aperiam non recusandae quibusdam voluptas quibusdam vel debitis.
 
 olympic:
   status: 
