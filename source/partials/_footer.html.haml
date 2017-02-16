@@ -1,21 +1,22 @@
 %footer.page-footer
   .copyright
-    &copy;&nbsp;2017 neoconstructivist
+    &copy;&nbsp;2017
+    = t("footer.copyright")
   .social
     %ul.social__list
       %li.social__item
-        = link_to "Facebook",
-                  "https://www.facebook.com/neoconstructivist", 
-                  class: "social__link" 
+        = link_to "https://www.facebook.com/neoconstructivist", 
+                  class: "social__link" do
+          = t("footer.facebook")
       %li.social__item
-        = link_to "Instagram", 
-                  "https://www.instagram.com/neoconstructivist",
-                  class: "social__link"
+        = link_to "https://www.instagram.com/neoconstructivist",
+                  class: "social__link" do
+          = t("footer.instagram")
       %li.social__item
-        = link_to "Twitter",
-                  "https://twitter.com/neoconstructive",
-                  class: "social__link" 
+        = link_to "https://twitter.com/neoconstructive",
+                  class: "social__link" do
+          = t("footer.twitter")
       %li.social__item
-        = link_to "Vimeo",
-                  "https://vimeo.com/neoconstructivist",
-                  class: "social__link" 
+        = link_to "https://vimeo.com/neoconstructivist",
+                  class: "social__link" do
+          = t("footer.vimeo")

@@ -5,18 +5,15 @@
   %nav.menu
     %ul.menu__list
       %li.menu__item
-        = link_to "Work",
-                  "/work.html",
-                  class: "menu__link"
+        = link_to "/work.html", class: "menu__link" do
+          = t("menu.work")
       %li.menu__item
-        = link_to "About",
-                  "/about.html",
-                  class: "menu__link"
+        = link_to "/about.html", class: "menu__link" do 
+          = t("menu.about")         
       %li.menu__item
-        = link_to "Research",
-                  "#",
-                  class: "menu__link"
+        = link_to "#", class: "menu__link" do
+          = t("menu.research")
       %li.menu__item
-        = link_to "Contact",
-                  "/contact.html",
-                  class: "menu__link"
+        = link_to "/contact.html", class: "menu__link" do
+          = t("menu.contact")
+                  
