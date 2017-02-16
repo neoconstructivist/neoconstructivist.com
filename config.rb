@@ -14,23 +14,38 @@ page '/*.json', layout: false
 page '/*.txt', layout: false
 
 # Dynamic pages: Methods
-data.strategies.each do |name, _|
+data.en.strategies.each do |name, _|
   proxy "/methods/#{name}/index.html",
-    "/methods/template.html",
+    "localizable/methods/template.html",
+    locals: { name: name },
+    ignore: true
+end
+
+data.ru.strategies.each do |name, _|
+  proxy "/ru/methods/#{name}/index.html",
+    "localizable/methods/template.html",
     locals: { name: name },
     ignore: true
 end
 
 # Dynamic pages: Projects
-data.projects.each do |name, _|
+data.en.projects.each do |name, _|
   proxy "/work/#{name}/index.html",
-    "/work/template.html",
+    "localizable/work/template.html",
     locals: { name: name },
     ignore: true
 end
 
-ignore "methods/template.html"
-ignore "work/template.html"
+# Dynamic pages: Projects
+data.ru.projects.each do |name, _|
+  proxy "/ru/work/#{name}/index.html",
+    "localizable/work/template.html",
+    locals: { name: name },
+    ignore: true
+end
+
+ignore "localizable/methods/template.html"
+ignore "localizable/work/template.html"
 
 configure :development do
   activate :livereload

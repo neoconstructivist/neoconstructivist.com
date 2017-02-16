@@ -9,5 +9,5 @@ title: The Art of Conceptual Engineering
     %p.intro__text 
       = t("main.text")
 %section.method
-  - data.strategies.each do |name, method|
+  - ldata.strategies.each do |name, method|
     = partial "partials/method", locals: { name: name, method: method }
