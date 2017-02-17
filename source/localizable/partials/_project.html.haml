@@ -1,10 +1,10 @@
 %article.project__row
   .project__item
-    = link_to "#{name}/" do
+    = link_to "../../work/#{name}/" do
       = image_tag project.image_thumb, class: "project__image"
   .project__info
     %h1.project__title
-      = link_to "#{name}/", class: "project__link" do
+      = link_to "../../work/#{name}/", class: "project__link" do
         = project.title
     %h2.project__description
       = project.description
@@ -15,9 +15,21 @@
       .project__category
         %ul.category__list
           - project.each do |key, value|
-            - if key == "strategy" || key == "domain" || key == "category"
+            - if key == "strategy" 
               - if !value.nil?
                 - value.each do |tag|
                   %li.category__item
-                    = link_to "categories/#{tag.parameterize}/", class: "category__link" do
+                    = link_to "../../methods/#{tag.parameterize}/", class: "category__link" do
+                      = tag
+            - if key == "domain"
+              - if !value.nil?
+                - value.each do |tag|
+                  %li.category__item
+                    = link_to "../../domains/#{tag.parameterize}/", class: "category__link" do
+                      = tag
+            - if key == "category"
+              - if !value.nil?
+                - value.each do |tag|
+                  %li.category__item
+                    = link_to "../../categories/#{tag.parameterize}/", class: "category__link" do
                       = tag
