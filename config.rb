@@ -48,8 +48,35 @@ data.ru.projects.each do |name, _|
     ignore: true
 end
 
+# Dynamic pages: Categories
+data.en.projects.each do |name, project|
+  if !project.category.nil?
+    project.category.each do |category_name|
+      proxy "categories/#{category_name.parameterize}/index.html",
+        "categories/template.html",
+        locals: { category_name: category_name },
+        locale: :en,
+        ignore: true
+    end
+  end
+end
+
+# Dynamic pages: Categories
+data.en.projects.each do |name, project|
+  if !project.category.nil?
+    project.category.each do |category_name|
+      proxy "/ru/categories/#{category_name.parameterize}/index.html",
+        "categories/template.html",
+        locals: { category_name: category_name },
+        locale: :ru,
+        ignore: true
+    end
+  end
+end
+
 ignore "methods/template.html"
 ignore "work/template.html"
+ignore "categories/template.html"
 
 configure :development do
   activate :livereload
