@@ -65,3 +65,13 @@ activate :deploy do |deploy|
   deploy.build_before = true
   deploy.deploy_method = :git
 end
+
+activate :contentful do |f|
+  f.space         = { contentful: ENV["SPACE_ID"] }
+  f.access_token  = ENV["CONTENTFUL_API_KEY"]
+  f.all_entries   = true
+  f.content_types = { 
+    strategies: "strategy",
+    projects: "project", 
+  }
+end
