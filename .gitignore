@@ -3,5 +3,5 @@
 /.cache
 /.sass-cache
 /build
-Gemfile.lock
 CNAME
+/.contentful-space-hash
