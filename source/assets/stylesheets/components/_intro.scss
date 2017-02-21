@@ -3,12 +3,20 @@
 
   display: block;
   margin-top: 15px;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
+
+  @media (min-width: $medium-screen) {
+    margin-bottom: 2.35765%;
+  }
 }
 
 .intro__item {
-  @include span-columns(6);
-  @include shift(6);
+  @include span-columns(12);
+
+  @media (min-width: $medium-screen) {
+    @include span-columns(6);
+    @include shift(6);
+  }
 }
 
 .intro__title {

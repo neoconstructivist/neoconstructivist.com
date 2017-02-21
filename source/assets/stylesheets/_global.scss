@@ -4,6 +4,12 @@ body {
 }
 
 .wrapper {
-  width: 1200px;
+  width: 100%;
   margin: 0 auto;
+  padding: 0 20px;
+
+  @media (min-width: $medium-screen) {
+    width: 1200px;
+    padding: 0;
+  }
 }
