@@ -74,9 +74,36 @@ data.en.projects.each do |name, project|
   end
 end
 
+# Dynamic pages: Domains
+data.en.projects.each do |name, project|
+  if !project.domain.nil?
+    project.domain.each do |domain_name|
+      proxy "domains/#{domain_name.parameterize}/index.html",
+        "domains/template.html",
+        locals: { domain_name: domain_name },
+        locale: :en,
+        ignore: true
+    end
+  end
+end
+
+# Dynamic pages: Domains
+data.en.projects.each do |name, project|
+  if !project.domain.nil?
+    project.domain.each do |domain_name|
+      proxy "/ru/domains/#{domain_name.parameterize}/index.html",
+        "domains/template.html",
+        locals: { domain_name: domain_name },
+        locale: :ru,
+        ignore: true
+    end
+  end
+end
+
 ignore "methods/template.html"
 ignore "work/template.html"
 ignore "categories/template.html"
+ignore "domains/template.html"
 
 configure :development do
   activate :livereload
