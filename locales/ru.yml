@@ -5,6 +5,11 @@ ru:
     about: О нас
     research: Заметки
     contact: Контакт
+  paths:
+    work: work
+    about: about
+    research: research
+    contact: contact
   main:
     title: Искусство концептуальной инженерии
     text: >
