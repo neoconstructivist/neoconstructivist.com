@@ -1,13 +1,21 @@
 .page-header {
   @include outer-container(100%);
 
-  padding: 45px 0;
+  padding: 25px 0;
 
   background-color: $base-background-color;
+
+  @media (min-width: $medium-screen) {
+    padding: 45px 0;
+  }
 }
 
 .logo {
-  @include span-columns(6);
+  @include span-columns(12);
+
+  @media (min-width: $medium-screen) {
+    @include span-columns(6);
+  }
 }
 
 .logo__link {
@@ -28,16 +36,25 @@
 }
 
 .menu {
-  @include span-columns(6);
+  display: block;
+
+  @media (min-width: $medium-screen) {
+    @include span-columns(6);
+  }
 }
 
 .menu__list {
+  padding-top: 45px;
   font-size: 0;
+
+  @media (min-width: $medium-screen) {
+    padding-top: 0;
+  }
 }
 
 .menu__item {
   display: inline-block;
-  margin-left: 30px;
+  margin-left: 15px;
 
   font-size: 18px;
   line-height: 1.35;
@@ -45,6 +62,10 @@
 
   &:first-child {
     margin-left: 0;
+  }
+
+  @media (min-width: $medium-screen) {
+    margin-left: 30px;
   }
 }
 

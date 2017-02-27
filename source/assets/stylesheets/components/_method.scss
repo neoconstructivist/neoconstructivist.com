@@ -6,12 +6,13 @@
 }
 
 .method__item {
+  @include span-columns(12);
+
   position: relative;
 
   display: inline-block;
-  width: 585px;
-  margin-right: 30px;
-  margin-bottom: 30px;
+  width: 100%;
+  margin-bottom: 20px;
 
   &:nth-child(even) {
     margin-right: 0;
@@ -19,6 +20,12 @@
 
   &:hover .method__title {
     border-bottom: 0;
+  }
+
+  @media (min-width: $medium-screen) {
+    @include span-columns(6);
+
+    margin-bottom: 2.35765%;
   }
 }
 
@@ -35,8 +42,13 @@
   top: 0;
   left: 0;
 
-  padding-top: 18px;
-  padding-left: 22px;
+  padding-top: 10px;
+  padding-left: 16px;
+
+  @media (min-width: $medium-screen) {
+    padding-top: 18px;
+    padding-left: 22px;
+  }
 }
 
 .method__title {
@@ -44,7 +56,7 @@
 
   margin-bottom: 0;
   
-  font-size: 24px;
+  font-size: 18px;
   line-height: 1.35;
   font-weight: 400;
 
@@ -55,5 +67,9 @@
   &--dark {
     color: $base-font-color;
     border-color: $base-font-color;
+  }
+
+  @media (min-width: $medium-screen) {
+    font-size: 24px;
   }
 }

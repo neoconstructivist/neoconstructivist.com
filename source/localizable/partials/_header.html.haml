@@ -5,14 +5,14 @@
   %nav.menu
     %ul.menu__list
       %li.menu__item
-        = link_to locale_path t("paths.work"), class: "menu__link" do
+        = link_to locale_path(t("paths.work")), class: "menu__link" do
           = t("menu.work")
       %li.menu__item
-        = link_to locale_path t("paths.about"), class: "menu__link" do 
+        = link_to locale_path(t("paths.about")), class: "menu__link" do 
           = t("menu.about")         
       %li.menu__item
         = link_to "#", class: "menu__link" do
           = t("menu.research")
       %li.menu__item
-        = link_to locale_path t("paths.contact"), class: "menu__link" do
+        = link_to locale_path(t("paths.contact")), class: "menu__link" do
           = t("menu.contact")
