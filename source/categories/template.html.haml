@@ -1,0 +1,14 @@
+---
+title: category
+---
+
+.intro
+  .intro__item
+    %h1.intro__title 
+      = category_name
+%section.project-wrapper
+  - ldata.projects.each do |name, project|
+    - if !project.category.nil?
+      - project.category.each do |category|
+        - if category == category_name
+          = partial "partials/project", locals: { name: name, project: project }

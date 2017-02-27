@@ -5,6 +5,11 @@ en:
     about: About
     research: Research
     contact: Contact
+  paths:
+    work: work
+    about: about
+    research: research
+    contact: contact
   main:
     title: The Art of Conceptual Engineering
     text: >
