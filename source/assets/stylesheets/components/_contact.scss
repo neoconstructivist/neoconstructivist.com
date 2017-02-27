@@ -5,11 +5,23 @@
 }
 
 .contact__photo {
-  @include span-columns(6);
+  @include span-columns(12);
+
+  margin-bottom: 30px;
+
+  @media (min-width: $medium-screen) {
+    @include span-columns(6);
+
+    margin-bottom: 0;
+  }
 }
 
 .contact__info {
-  @include span-columns(6);
+  @include span-columns(12);
+
+  @media (min-width: $medium-screen) {
+    @include span-columns(6);
+  }
 }
 
 .contact__item {
