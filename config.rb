@@ -14,10 +14,10 @@ page '/*.json', layout: false
 page '/*.txt', layout: false
 
 # Dynamic pages: Methods
-data.en.strategies.each do |name, _|
-  proxy "/methods/#{name}/index.html",
+data.contentful.strategies.each do |id, method|
+  proxy "/methods/#{method.title.parameterize}/index.html",
     "methods/template.html",
-    locals: { name: name },
+    locals: { method: method },
     locale: :en,
     ignore: true
 end
