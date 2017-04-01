@@ -1,0 +1,7 @@
+---
+title: work
+---
+
+%section.project
+  - data.contentful.projects.each do |id, project|
+    = partial "partials/project", locals: { project: project }

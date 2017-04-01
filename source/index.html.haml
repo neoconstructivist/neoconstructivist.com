@@ -1,0 +1,13 @@
+---
+title: The Art of Conceptual Engineering
+---
+
+.intro
+  .intro__item
+    %h1.intro__title 
+      = t("main.title")
+    %p.intro__text 
+      = t("main.text")
+%section.method
+  - data.contentful.strategies.each do |id, method|
+    = partial "partials/method", locals: { method: method }

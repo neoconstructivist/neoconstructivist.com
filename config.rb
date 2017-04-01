@@ -23,10 +23,10 @@ data.contentful.strategies.each do |id, method|
 end
 
 # Dynamic pages: Projects
-data.en.projects.each do |name, _|
-  proxy "/work/#{name}/index.html",
+data.contentful.projects.each do |id, project|
+  proxy "/work/#{project.slug}/index.html",
     "work/template.html",
-    locals: { name: name },
+    locals: { project: project },
     locale: :en,
     ignore: true
 end

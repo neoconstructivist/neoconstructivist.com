@@ -1,0 +1,18 @@
+%header.page-header
+  .logo 
+    = link_to "/index.html", class: "logo__link" do
+      = image_tag "assets/images/nc-logo.svg", class: "logo__image"
+  %nav.menu
+    %ul.menu__list
+      %li.menu__item
+        = link_to "/work.html", class: "menu__link" do
+          = t("menu.work")
+      %li.menu__item
+        = link_to "/about.html", class: "menu__link" do 
+          = t("menu.about")         
+      %li.menu__item
+        = link_to "#", class: "menu__link" do
+          = t("menu.research")
+      %li.menu__item
+        = link_to "/contact.html", class: "menu__link" do
+          = t("menu.contact")
