@@ -22,29 +22,12 @@ data.en.strategies.each do |name, _|
     ignore: true
 end
 
-data.ru.strategies.each do |name, _|
-  proxy "/ru/methods/#{name}/index.html",
-    "methods/template.html",
-    locals: { name: name },
-    locale: :ru,
-    ignore: true
-end
-
 # Dynamic pages: Projects
 data.en.projects.each do |name, _|
   proxy "/work/#{name}/index.html",
     "work/template.html",
     locals: { name: name },
     locale: :en,
-    ignore: true
-end
-
-# Dynamic pages: Projects
-data.ru.projects.each do |name, _|
-  proxy "/ru/work/#{name}/index.html",
-    "work/template.html",
-    locals: { name: name },
-    locale: :ru,
     ignore: true
 end
 
