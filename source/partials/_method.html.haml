@@ -1,0 +1,11 @@
+%article.method__item
+  = link_to "methods/#{method.title.parameterize}", class: "method__link" do
+    = image_tag method.image.url, class: "method__image"
+    .method__meta
+      - if method.light
+        %h2.method__title.method__title--dark
+          = method.title
+      - else
+        %h2.method__title
+          = method.title
+      

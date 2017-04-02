@@ -1,16 +1,16 @@
 %article.project__row
   .project__item
-    = link_to "../../work/#{name}/" do
-      = image_tag project.image_thumb, class: "project__image"
+    = link_to "../../work/#{project.slug}/" do
+      = image_tag project.images[0].url, class: "project__image"
   .project__info
     %h1.project__title
-      = link_to "../../work/#{name}/", class: "project__link" do
+      = link_to "../../work/#{project.slug}/", class: "project__link" do
         = project.title
     %h2.project__description
       = project.description
-    - if !project.text.nil?
+    - if !project.introduction.nil?
       %p.project__preview
-        = project.text[0]
+        = project.introduction
     - if !project.category.nil?
       .project__category
         %ul.category__list

@@ -12,6 +12,7 @@ gem 'tzinfo-data', platforms: [:mswin, :mingw, :jruby]
 
 gem "bourbon", "~> 4.2"
 gem "byebug"
+gem "contentful_middleman", git: "https://github.com/contentful/contentful_middleman.git", branch: "dl/upgrade-to-v4"
 gem "middleman", "~> 4.0"
 gem "middleman-autoprefixer", "~> 2.6"
 gem "middleman-deploy", "= 2.0.0.pre.alpha"

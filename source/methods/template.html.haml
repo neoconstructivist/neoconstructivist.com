@@ -2,13 +2,11 @@
 title: method
 ---
 
-- method = ldata.strategies[name]
-
 = partial "partials/intro", locals: { method: method }
 
 %section.project-wrapper
-  - ldata.projects.each do |name, project|
+  - data.contentful.projects.each do |id, project|
     - if !project.strategy.nil?
       - project.strategy.each do |strategy|
         - if strategy == method.title
-          = partial "partials/project", locals: { name: name, project: project }
+          = partial "partials/project", locals: { project: project }

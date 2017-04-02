@@ -14,90 +14,21 @@ page '/*.json', layout: false
 page '/*.txt', layout: false
 
 # Dynamic pages: Methods
-data.en.strategies.each do |name, _|
-  proxy "/methods/#{name}/index.html",
+data.contentful.strategies.each do |id, method|
+  proxy "/methods/#{method.title.parameterize}/index.html",
     "methods/template.html",
-    locals: { name: name },
-    locale: :en,
-    ignore: true
-end
-
-data.ru.strategies.each do |name, _|
-  proxy "/ru/methods/#{name}/index.html",
-    "methods/template.html",
-    locals: { name: name },
-    locale: :ru,
-    ignore: true
-end
-
-# Dynamic pages: Projects
-data.en.projects.each do |name, _|
-  proxy "/work/#{name}/index.html",
-    "work/template.html",
-    locals: { name: name },
+    locals: { method: method },
     locale: :en,
     ignore: true
 end
 
 # Dynamic pages: Projects
-data.ru.projects.each do |name, _|
-  proxy "/ru/work/#{name}/index.html",
+data.contentful.projects.each do |id, project|
+  proxy "/work/#{project.slug}/index.html",
     "work/template.html",
-    locals: { name: name },
-    locale: :ru,
+    locals: { project: project },
+    locale: :en,
     ignore: true
-end
-
-# Dynamic pages: Categories
-data.en.projects.each do |name, project|
-  if !project.category.nil?
-    project.category.each do |category_name|
-      proxy "categories/#{category_name.parameterize}/index.html",
-        "categories/template.html",
-        locals: { category_name: category_name },
-        locale: :en,
-        ignore: true
-    end
-  end
-end
-
-# Dynamic pages: Categories
-data.en.projects.each do |name, project|
-  if !project.category.nil?
-    project.category.each do |category_name|
-      proxy "/ru/categories/#{category_name.parameterize}/index.html",
-        "categories/template.html",
-        locals: { category_name: category_name },
-        locale: :ru,
-        ignore: true
-    end
-  end
-end
-
-# Dynamic pages: Domains
-data.en.projects.each do |name, project|
-  if !project.domain.nil?
-    project.domain.each do |domain_name|
-      proxy "domains/#{domain_name.parameterize}/index.html",
-        "domains/template.html",
-        locals: { domain_name: domain_name },
-        locale: :en,
-        ignore: true
-    end
-  end
-end
-
-# Dynamic pages: Domains
-data.en.projects.each do |name, project|
-  if !project.domain.nil?
-    project.domain.each do |domain_name|
-      proxy "/ru/domains/#{domain_name.parameterize}/index.html",
-        "domains/template.html",
-        locals: { domain_name: domain_name },
-        locale: :ru,
-        ignore: true
-    end
-  end
 end
 
 ignore "methods/template.html"
@@ -118,4 +49,14 @@ end
 activate :deploy do |deploy|
   deploy.build_before = true
   deploy.deploy_method = :git
+end
+
+activate :contentful do |f|
+  f.space         = { contentful: ENV["SPACE_ID"] }
+  f.access_token  = ENV["CONTENTFUL_API_KEY"]
+  f.all_entries   = true
+  f.content_types = { 
+    strategies: "strategy",
+    projects: "project", 
+  }
 end
