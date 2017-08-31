@@ -2,21 +2,17 @@
 # the following line to use "http://"
 source "https://rubygems.org"
 
-ruby '2.3.1'
+ruby '2.4.0'
 
-# For faster file watcher updates on Windows:
-gem 'wdm', '~> 0.1.0', platforms: [:mswin, :mingw]
-
-# Windows does not come with time zone data
-gem 'tzinfo-data', platforms: [:mswin, :mingw, :jruby]
-
-gem "bourbon", "~> 4.2"
+gem "bourbon", "~> 5.0.0.beta.8"
 gem "byebug"
 gem "contentful_middleman", git: "https://github.com/contentful/contentful_middleman.git", branch: "dl/upgrade-to-v4"
-gem "middleman", "~> 4.0"
-gem "middleman-autoprefixer", "~> 2.6"
-gem "middleman-deploy", "= 2.0.0.pre.alpha"
+gem "middleman", "~> 4.2"
+gem "middleman-aria_current", "~> 0.1"
+gem "middleman-autoprefixer", "~> 2.8"
 gem "middleman-livereload", "~> 3.4"
-gem "middleman-sprockets", "= 4.0.0.rc.1"
-gem "neat", "~> 1.7"
-gem "sassc", "~> 1.8"
+gem "middleman-minify-html", "~> 3.4"
+gem "neat", "~> 2.1"
+gem "rake", "~> 12.0"
+gem "redcarpet", "~> 3.4"
+gem "sass", "~> 3.4"
