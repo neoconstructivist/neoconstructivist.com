@@ -1,17 +1,26 @@
-activate :directory_indexes
+activate :aria_current
 activate :autoprefixer
 activate :i18n
 
-set :relative_links, true
 set :css_dir, "assets/stylesheets"
-set :js_dir, "assets/javascripts"
-set :images_dir, "assets/images"
 set :fonts_dir, "assets/fonts"
+set :images_dir, "assets/images"
+set :js_dir, "assets/javascripts"
 set :layout, "layouts/layout"
+set :markdown,
+  autolink: true,
+  fenced_code_blocks: true,
+  footnotes: true,
+  highlight: true,
+  smartypants: true,
+  strikethrough: true,
+  tables: true,
+  with_toc_data: true
+set :markdown_engine, :redcarpet
 
-page '/*.xml', layout: false
-page '/*.json', layout: false
-page '/*.txt', layout: false
+page "/*.xml", layout: false
+page "/*.json", layout: false
+page "/*.txt", layout: false
 
 # Dynamic pages: Methods
 data.contentful.strategies.each do |id, method|
@@ -36,21 +45,6 @@ ignore "work/template.html"
 ignore "categories/template.html"
 ignore "domains/template.html"
 
-configure :development do
-  activate :livereload
-end
-
-configure :build do
-  activate :relative_assets
-  activate :minify_css
-  activate :minify_javascript
-end
-
-activate :deploy do |deploy|
-  deploy.build_before = true
-  deploy.deploy_method = :git
-end
-
 activate :contentful do |f|
   f.space         = { contentful: ENV["SPACE_ID"] }
   f.access_token  = ENV["CONTENTFUL_API_KEY"]
@@ -59,4 +53,17 @@ activate :contentful do |f|
     strategies: "strategy",
     projects: "project", 
   }
+end
+
+configure :development do
+  activate :livereload do |reload|
+    reload.no_swf = true
+  end
+end
+
+configure :production do
+  activate :gzip
+  activate :minify_css
+  activate :minify_html
+  activate :minify_javascript
 end
