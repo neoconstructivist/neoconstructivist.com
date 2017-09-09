@@ -1,26 +1,26 @@
 .contact-wrapper {
-  @include outer-container(100%); 
+  @include grid-container;
 
   margin: 90px 0;
 }
 
 .contact__photo {
-  @include span-columns(12);
+  @include grid-column(12);
 
   margin-bottom: 30px;
 
   @media (min-width: $medium-screen) {
-    @include span-columns(6);
+    @include grid-column(6);
 
     margin-bottom: 0;
   }
 }
 
 .contact__info {
-  @include span-columns(12);
+  @include grid-column(12);
 
   @media (min-width: $medium-screen) {
-    @include span-columns(6);
+    @include grid-column(6);
   }
 }
 

@@ -1,5 +1,5 @@
 .page-header {
-  @include outer-container(100%);
+  @include grid-container;
 
   padding: 25px 0;
 
@@ -11,10 +11,10 @@
 }
 
 .logo {
-  @include span-columns(12);
+  @include grid-column(12);
 
   @media (min-width: $medium-screen) {
-    @include span-columns(6);
+    @include grid-column(6);
   }
 }
 
@@ -31,15 +31,15 @@
 }
 
 .logo__image {
-   width: auto;
-   height: 18px;
+  width: auto;
+  height: 18px;
 }
 
 .menu {
   display: block;
 
   @media (min-width: $medium-screen) {
-    @include span-columns(6);
+    @include grid-column(6);
   }
 }
 
@@ -74,7 +74,7 @@
   border-bottom: 1px solid $base-font-color;
 
   &:hover {
-    color: $base-font-color; 
-    border-bottom: 0; 
+    color: $base-font-color;
+    border-bottom: 0;
   }
 }

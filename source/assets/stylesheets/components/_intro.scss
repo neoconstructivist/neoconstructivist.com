@@ -1,5 +1,5 @@
 .intro {
-  @include outer-container;
+  @include grid-container;
 
   display: block;
   margin-top: 15px;
@@ -11,11 +11,11 @@
 }
 
 .intro__item {
-  @include span-columns(12);
+  @include grid-column(12);
 
   @media (min-width: $medium-screen) {
-    @include span-columns(6);
-    @include shift(6);
+    @include grid-column(6);
+    @include grid-shift(6);
   }
 }
 

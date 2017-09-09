@@ -1,9 +1,9 @@
 .page-footer {
-  @include outer-container(100%);
+  @include grid-container;
 }
 
 .copyright {
-  @include span-columns(12);
+  @include grid-column(12);
 
   font-size: 16px;
   line-height: 1.35;
@@ -12,19 +12,19 @@
   text-align: left;
 
   @media (min-width: $medium-screen) {
-    @include span-columns(6);
+    @include grid-column(6);
 
     font-size: 18px;
   }
 }
 
 .social {
-  @include span-columns(12);
+  @include grid-column(12);
 
   margin-bottom: 120px;
 
   @media (min-width: $medium-screen) {
-    @include span-columns(6);
+    @include grid-column(6);
   }
 }
 

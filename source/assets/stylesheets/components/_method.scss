@@ -6,7 +6,7 @@
 }
 
 .method__item {
-  @include span-columns(12);
+  @include grid-column(12);
 
   position: relative;
 
@@ -23,7 +23,7 @@
   }
 
   @media (min-width: $medium-screen) {
-    @include span-columns(6);
+    @include grid-column(6);
 
     margin-bottom: 2.35765%;
   }
@@ -55,7 +55,7 @@
   position: relative;
 
   margin-bottom: 0;
-  
+
   font-size: 18px;
   line-height: 1.35;
   font-weight: 400;
