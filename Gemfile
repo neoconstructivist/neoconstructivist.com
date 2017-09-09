@@ -5,6 +5,7 @@ source "https://rubygems.org"
 ruby '2.4.0'
 
 gem "bourbon", "~> 5.0.0.beta.8"
+gem "builder", "~> 3.2"
 gem "byebug"
 gem "contentful_middleman", git: "https://github.com/contentful/contentful_middleman.git", branch: "dl/upgrade-to-v4"
 gem "middleman", "~> 4.2"
