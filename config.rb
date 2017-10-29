@@ -2,6 +2,9 @@ activate :aria_current
 activate :autoprefixer
 activate :i18n
 
+# Disable warnings
+Haml::TempleEngine.disable_option_validator!
+
 set :css_dir, "assets/stylesheets"
 set :fonts_dir, "assets/fonts"
 set :images_dir, "assets/images"
